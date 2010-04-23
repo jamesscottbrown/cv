@@ -1,0 +1,168 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2008 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+\usepackage{color}
+
+%\usepackage{hyperref}
+\usepackage{geometry}
+
+% Uncomment the following lines to use the Palatino font.  Remove the
+% [osf] bit if you don't like the old style figures.
+%
+ \usepackage[T1]{fontenc}
+ \usepackage[osf]{mathpazo}
+
+% Set your name here
+\def\name{James Scott-Brown}
+
+% The following metadata will show up in the PDF properties
+%\hypersetup{
+%  colorlinks = true,
+%  urlcolor = black,
+%  pdfauthor = {\name},
+%  pdfkeywords = {},
+%  pdftitle = {\name: Curriculum Vitae},
+%  pdfsubject = {Curriculum Vitae},
+%  pdfpagemode = UseNone
+%}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Customize section headings
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\scshape\normalsize}
+
+% Alternative section fonts:
+%\sectionfont{\rmfamily\bfseries\Large}
+%\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+
+\begin{minipage}[t]{0.5\textwidth}
+James Scott-Brown\\
+2 Haddon Close\\
+Fareham\\
+Hampshire\\
+England\\ \\
+Date of Birth: October 11, 1991 \\
+Citizenship: United Kingdom
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  Home: 01329 823 675 \\
+  Email: jamesscottbrown@tiscali.co.uk \\
+  %Homepage: \href{ }{\tt } \\
+\end{minipage}
+
+%\section*{Personal Profile}
+
+
+\section*{Education}
+\begin{itemize}
+\item Attended Portsmouth Grammar School 1996-Present
+ \item Currently Studying for A-levels in Physics, Chemistry, Biology, Mathematics, and Further Mathematics, whilst receiving a Hornby academic scholarship. 
+ \item In 2009, received a Silver Medal in the British Biology Olympiad and a Gold Certificate in the British Chemistry Olympiad. Also came first in the annual essay competition organised by the European Society for Human Genetics. 
+ \item In 2008, Gained 10 A* grades at GCSE (Physics, Chemistry, Biology, Mathematics, Business Studies, History, English, English Literature, Latin, and Classical Greek), and an A grade in French. Also received an A in Additional Mathematics, for which there is no A* grade.
+\end{itemize}
+
+I have also been awarded a Silver Medal in Public Speaking from the New Era Academy.
+
+\section*{Employment}
+\begin{itemize}
+	\item In 2008, contracted by a university research group to produce RDF serialisation/de-serialisation software for an electronic lab notebook
+	\item Volunteer work as Stage Crew/Stage Management for numerous performances, in both school and professional theaters.
+\end{itemize}
+%\section*{Teaching and Research Fields}
+%\section*{Academic Experience}
+%subsections for each university & department
+%\section*{Research}
+%\subsection*{Work in Progress}
+%\subsection*{Working Papers}
+% \subsection*{Papers Under Review}
+% \subsection*{Publications in Refereed Journals}
+%\subsection*{Unpublished Papers}
+%\section*{Invited Talks}
+%\subsection*{Conference Presentations}
+% %\subsection*{University Seminars}
+%\section*{Teaching}
+
+%\subsection*{Conferences and Workshops Attended}
+%\subsection*{Refereeing}
+
+%\section*{Honors \& Awards}
+%\subsection*{Fellowships}
+
+%\subsection*{Awards}
+%\subsection*{Honorary Societies} (Fraternities)
+
+\section*{Miscellaneous}
+
+\subsection*{Memberships of Professional \& Academic Societies}
+\begin{itemize}
+\item Student member of the American Association for the Advancement of Science (AAAS)
+\item Member of the Royal Society of Chemistry's ChemNet student programme
+\end{itemize}
+
+\subsection*{Computer Skills}
+Perl scripting, technical document preparation with \LaTeX, Information Visualisation/Design with Adobe Illustrator and R, editing of digital photographs with Apple Aperture, presentation design with Apple Keynote or Microsoft Powerpoint. 
+
+
+Limited experience installing and configuring apache, mysql, MediaWiki, and Wordpress on web servers.
+
+\subsection*{Licenses held}
+\begin{itemize}
+\item Amateur Radio Foundation License
+\item RYA Day Skipper (exceeds requirements of the International Certificate of Competence)
+%\item \textcolor{red}{Marine VHF License}
+\end{itemize}
+%\section*{References}
+
+
+\bigskip
+
+% Footer
+\begin{center}
+\begin{footnotesize}
+Last updated: \today \\
+\end{footnotesize}
+\end{center}
+\end{document}
