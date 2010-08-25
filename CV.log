@@ -1,4 +1,4 @@
-This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2009.7.15)  23 APR 2010 20:09
+This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2009.7.15)  25 AUG 2010 20:17
 entering extended mode
  file:line:error style messages enabled.
 **CV.tex
@@ -96,10 +96,10 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
 LaTeX Font Info:    ... okay on input line 71.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
 LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Try loading font information for T1+pplj on input line 71.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 71.
 
-(/sw/share/texmf-dist/tex/latex/psnfss/t1pplj.fd
-File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
+(/sw/share/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 (/sw/share/texmf-dist/tex/context/base/supp-pdf.tex
 (/sw/share/texmf-dist/tex/context/base/supp-mis.tex
@@ -180,70 +180,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--90
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--96
-
- []
-
-
-Overfull \hbox (2.20999pt too wide) in paragraph at lines 81--97
-[][] [] 
- []
-
-LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 101.
-LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 103.
-LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <12> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 146.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 153.
-
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 92.
 (/sw/share/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 153
-.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 92.
+
 
 (/sw/share/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 153
-.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 92.
+
 
 (/sw/share/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 153
-.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 92.
+
 
 (/sw/share/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 153
-.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 92.
+
 
 (/sw/share/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [1
+)
+Overfull \hbox (1.90001pt too wide) in paragraph at lines 81--99
+[][] [] 
+ []
+
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 103.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 105.
+[1
 
 {/sw/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 171.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 163.
  [2] (./CV.aux) ) 
 Here is how much of TeX's memory you used:
- 1617 strings out of 94500
- 19839 string characters out of 1176114
- 68737 words of memory out of 1000000
- 4783 multiletter control sequences out of 10000+50000
- 42754 words of font info for 62 fonts, out of 500000 for 2000
+ 1606 strings out of 94500
+ 19722 string characters out of 1176114
+ 68750 words of memory out of 1000000
+ 4784 multiletter control sequences out of 10000+50000
+ 27780 words of font info for 50 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
- 24i,5n,28p,325b,164s stack positions out of 1500i,500n,5000p,200000b,5000s
+ 23i,8n,28p,293b,164s stack positions out of 1500i,500n,5000p,200000b,5000s
 PDF statistics:
  19 PDF objects out of 300000
  0 named destinations out of 131072
  1 words of extra memory for PDF output out of 65536
 {/sw/share/texmf-dist/fonts/enc/dvips/psnfss/8r.enc}</sw/share
-/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></sw/share/texmf-dist/fonts/ty
-pe1/urw/palatino/uplb8a.pfb></sw/share/texmf-dist/fonts/type1/public/fpl/fplrc8
-a.pfb></sw/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on CV.pdf (2 pages, 61720 bytes).
+/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></sw/share/texmf-dist/fonts/typ
+e1/urw/palatino/uplri8a.pfb></sw/share/texmf-dist/fonts/type1/urw/palatino/uplb
+8a.pfb></sw/share/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on CV.pdf (2 pages, 66355 bytes).
