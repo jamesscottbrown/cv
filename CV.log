@@ -1,4 +1,4 @@
-This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2009.7.15)  14 JAN 2011 14:14
+This is pdfeTeXk, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=pdflatex 2009.7.15)  16 MAY 2011 21:20
 entering extended mode
  file:line:error style messages enabled.
 **CV.tex
@@ -231,7 +231,7 @@ Here is how much of TeX's memory you used:
  4778 multiletter control sequences out of 10000+50000
  21253 words of font info for 44 fonts, out of 500000 for 2000
  580 hyphenation exceptions out of 1000
- 23i,8n,28p,317b,195s stack positions out of 1500i,500n,5000p,200000b,5000s
+ 23i,8n,28p,317b,193s stack positions out of 1500i,500n,5000p,200000b,5000s
 PDF statistics:
  19 PDF objects out of 300000
  0 named destinations out of 131072
@@ -241,4 +241,4 @@ are/texmf-dist/fonts/enc/dvips/psnfss/8r.enc}</sw/share/texmf-dist/fonts/type1/
 urw/palatino/uplr8a.pfb></sw/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.
 pfb></sw/share/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></sw/share/texmf-
 dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on CV.pdf (2 pages, 72567 bytes).
+Output written on CV.pdf (2 pages, 72847 bytes).
