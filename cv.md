@@ -1,6 +1,6 @@
 [DTC Homepage](http://www.dtc.ox.ac.uk/people/14/scottbrownj/)
 
-I am currently a D.Phil student on the EPSRC/BBSRC Synthetic Biology Doctoral Training Centre, supervised by **Prof. Antonis Papachristodoulou** (Department of Engineering Science, University of Oxford).
+I am currently a D.Phil student on the EPSRC/BBSRC Synthetic Biology Doctoral Training Centre, supervised by **Prof. Antonis Papachristodoulou** and **Dr. Thomas Prescott** (Department of Engineering Science, University of Oxford).
 
 I am investigating what can be achieved using communication between cells.
 
