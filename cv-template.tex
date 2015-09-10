@@ -1,0 +1,108 @@
+% LaTeX Curriculum Vitae Template
+%
+% Copyright (C) 2004-2008 Jason Blevins <jrblevin@sdf.lonestar.org>
+% http://jblevins.org/projects/cv-template
+%
+% You may use use this document as a template to create your own CV
+% and you may redistribute the source code freely. No attribution is
+% required in any resulting documents. I do ask that you please leave
+% this notice and the above URL in the source code if you choose to
+% redistribute this file.
+
+\documentclass[letterpaper]{article}
+
+\usepackage{color}
+\usepackage{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo}
+\usepackage{hyperref}
+
+\def\name{James Scott-Brown}
+
+% Make it tighter:
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+\setlength{\partopsep}{0pt}
+\usepackage[compact]{titlesec}
+\usepackage{paralist}
+\addtolength{\itemsep}{-10mm}
+
+% The following metadata will show up in the PDF properties
+%\hypersetup{
+%  colorlinks = true,
+%  urlcolor = black,
+%  pdfauthor = {\name},
+%  pdfkeywords = {},
+%  pdftitle = {\name: Curriculum Vitae},
+%  pdfsubject = {Curriculum Vitae},
+%  pdfpagemode = UseNone
+%}
+
+\geometry{a4paper, textwidth=6.5in, textheight=10in, marginparsep=7pt, marginparwidth=.6in}
+
+% Customize page headers
+\pagestyle{myheadings}
+\markright{\name}
+\thispagestyle{empty}
+
+% Customize section headings
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\Large}
+\subsectionfont{\rmfamily\mdseries\scshape\normalsize}
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Define \compactitem to make lists without bullets
+\renewenvironment{itemize}{
+  \begin{compactitem}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{compactitem}
+}
+
+% Don't number sections
+\setcounter{secnumdepth}{0}
+
+% Define \years to put years in margin
+% from http://nitens.org/taraborelli/cvtex
+\usepackage{marginnote}
+\newcommand{\years}[1]{\marginnote{\bf \small #1}}
+\renewcommand*{\raggedleftmarginnote}{}
+\setlength{\marginparsep}{0 pt}
+\reversemarginpar
+
+\newcommand{\nextItem}{\\[0.4\baselineskip]}
+\newcommand{\nextItemTight}{\\[0.2\baselineskip]}
+
+
+\begin{document}
+
+% Place name at left
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\vspace{0.25in}
+\begin{minipage}[t]{0.5\textwidth}
+Synthetic Biology Doctoral Training Centre,\\
+University of Oxford\\
+http://jamesscottbrown.com\\
+james.scott-brown@dtc.ox.ac.uk \\ \\
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+\begin{tabular}{ll}  	
+Date of Birth: &October 19, 1991 \\
+Citizenship: &British
+\end{tabular}
+\end{minipage}
+
+
+$body$
+
+\vspace{0.3 cm}
+% References available on request.
+
+\end{document}
