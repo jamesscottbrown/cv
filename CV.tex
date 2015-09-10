@@ -12,18 +12,20 @@
 \documentclass[letterpaper]{article}
 
 \usepackage{color}
-
-%\usepackage{hyperref}
 \usepackage{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{mathpazo}
+\usepackage{hyperref}
 
-% Uncomment the following lines to use the Palatino font.  Remove the
-% [osf] bit if you don't like the old style figures.
-%
- \usepackage[T1]{fontenc}
- \usepackage{mathpazo}
-
-% Set your name here
 \def\name{James Scott-Brown}
+
+% Make it tighter:
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+\setlength{\partopsep}{0pt}
+\usepackage[compact]{titlesec}
+\usepackage{paralist}
+\addtolength{\itemsep}{-10mm}
 
 % The following metadata will show up in the PDF properties
 %\hypersetup{
@@ -36,11 +38,7 @@
 %  pdfpagemode = UseNone
 %}
 
-\geometry{
-  body={6.5in, 8.5in},
-  left=1.0in,
-  top=1.25in
-}
+\geometry{a4paper, textwidth=6.5in, textheight=10in, marginparsep=7pt, marginparwidth=.6in}
 
 % Customize page headers
 \pagestyle{myheadings}
@@ -52,21 +50,30 @@
 \sectionfont{\rmfamily\mdseries\Large}
 \subsectionfont{\rmfamily\mdseries\scshape\normalsize}
 
-% Alternative section fonts:
-%\sectionfont{\rmfamily\bfseries\Large}
-%\subsectionfont{\rmfamily\mdseries\itshape\large}
-
 % Don't indent paragraphs.
 \setlength\parindent{0em}
 
-% Make lists without bullets
+% Define \compactitem to make lists without bullets
 \renewenvironment{itemize}{
-  \begin{list}{}{
+  \begin{compactitem}{}{
     \setlength{\leftmargin}{1.5em}
   }
 }{
-  \end{list}
+  \end{compactitem}
 }
+
+
+% Define \years to put years in margin
+% from http://nitens.org/taraborelli/cvtex
+\usepackage{marginnote}
+\newcommand{\years}[1]{\marginnote{\bf \small #1}}
+\renewcommand*{\raggedleftmarginnote}{}
+\setlength{\marginparsep}{0 pt}
+\reversemarginpar
+
+\newcommand{\nextItem}{\\[0.4\baselineskip]}
+\newcommand{\nextItemTight}{\\[0.2\baselineskip]}
+
 
 \begin{document}
 
@@ -88,109 +95,76 @@ js904@cam.ac.uk \\
 \begin{tabular}{ll}  	
 Date of Birth: &October 19, 1991 \\
 Citizenship: &British
-%Mobile: &07549 923 482\\
-%Email: &james@jamesscottbrown.com \\
-%Email: &js904@cam.ac.uk \\
-  %Homepage: \href{ }{\tt } \\
 \end{tabular}
 \end{minipage}
 
-%\section*{Personal Profile}
-
 
 \section*{Education}
-\begin{description}
- \item[2010-] Natural Sciences Tripos at {\bf Trinity College, Cambridge}. Studied Biology of Cells, Physiology of Organisms, Chemistry, and Mathematics B at Part IA. Currently studying Biochemistry \& Molecular Biology, Cell \& Developmental Biology, and Mathematics at Part IB.
- \item[1996-2010] Portsmouth Grammar School 
- \item[2010] Received {\bf 4 A* grades at A2 level} (Physics, Chemistry, Biology, Mathematics), and {\bf 1 A grade} (Further Mathematics), whilst on a Hornby academic scholarship.
- \item[2008] Received {\bf 10 A* grades at GCSE} (Physics, Chemistry, Biology, Mathematics, Business Studies, History, English, English Literature, Latin, and Classical Greek), and {\bf 1 A grade} (French). Also received an {\bf A} in the Additional Mathematics FSMQ, for which there is no A* grade.
-\end{description}
+\years{2010-} Trinity College, Cambridge\\[0.5\baselineskip]
+\years{2012-13} {\bf Part IIB of the Engineering Tripos (Class I)}. Doing project on \textit{Computational Auditory Scene Analysis}, supervised by Dr. Rich Turner. Studying the modules:\nextItem
+\small 
+\begin{tabular}{ll}
+4F2  Robust and non-linear systems and control & 4M17 Practical optimisation\\
+4F3  Optimal and predictive control & 4G5  Molecular modelling\\
+4F10 Statistical Pattern Processing & 4G3  Computational neuroscience\\
+4F13 Machine Learning & 4E6  Accounting and finance\\
+\end{tabular}
+\normalsize \nextItem
+\years{2012-13} {\bf Part IIA of the Engineering Tripos (Class I)}. Studied the modules:\nextItem
+\small 
+\begin{tabular}{ll}
+3E10 Operations Management for Engineers & 3G1 Introduction to Molecular Bioengineering\\
+3F1 Signals and systems & 3G2 Mathematical Physiology\\
+3F2 Systems and Control & 3G3 Introduction to Neuroscience\\
+3F5 Computer and Network Systems & 3G4 Medical Imaging and 3D Computer Graphics\\
+3F6 Software Engineering and Design & 3G5 Biomaterials\\
+\end{tabular}
+\normalsize \nextItem
+\years{2010-12} {\bf Part I of the Natural Sciences Tripos} (Class II). Studied Biology of Cells, Physiology of Organisms, Chemistry, and Mathematics B at Part IA.  Studied Biochemistry \& Molecular Biology, Cell \& Developmental Biology, and Mathematics at Part IB.\nextItem
+\years{1996-2010} Portsmouth Grammar School \nextItem
+\years{2010} Received {\bf 4 A* grades at A2 level} (Physics, Chemistry, Biology, Mathematics), and {\bf 1 A grade} (Further Mathematics), whilst on a Hornby academic scholarship.\nextItem
+\years{2008} Received {\bf 10 A* grades at GCSE} (Physics, Chemistry, Biology, Mathematics, Business Studies, History, English, English Literature, Latin, and Classical Greek), and {\bf 1 A grade} (French). Also received an {\bf A} in the Additional Mathematics FSMQ, for which there is no A* grade.
 
-\section*{Research Experience}
-\begin{description}
-	\item[2011] Student placement with {\bf Dr Bill Schafer}'s group at the MRC Laboratory of Molecular Biology. This mainly involved writing a MATLAB program to play videos, and interact with metadata and annotations stored in both a MySQL database and binary files. I also had a little exposure to \textit{C. elegans} methods, including behavioural assays and calcium imaging.
-	\item[2010] Student placement with {\bf Prof. Jeremy Frey}'s group at the University of Southampton. This was mostly spent writing a Ruby on Rails web application to collect experimental data. 
-	\item[2008] Student placement with {\bf Prof. Jeremy Frey}'s group. This included writing perl scripts as part of a laboratory automation project.
-\end{description}
+\section*{Summer Placements}
+\years{2013} Software Developer Intern at {\bf The MathWorks}. Prototyped a web GUI using JavaScript and the Dojo toolkit. Also implemented a new graph layout and improved GUI for a dependency graph viewer.\nextItem
+\years{2012} Student placement with {\bf Dr Madan Babu Mohan}'s group at the MRC Laboratory of Molecular Biology. Constructed a website to visualise and compare networks of non-covalent interactions within proteins. I implemented the front-end in JavaScript with D3.js, and the backend in C++.\nextItem
+\years{2011} Student placement with {\bf Dr Bill Schafer}'s group at the MRC Laboratory of Molecular Biology. Wrote a MATLAB program to play videos of experiments, and interact with metadata and annotations stored in both a MySQL database and binary files. I also had some exposure to \textit{C. elegans} experimental methods, including behavioural assays and calcium imaging.\nextItem
+\years{2010} Student placement with {\bf Prof.\ Jeremy Frey}'s group at the University of Southampton. This was mostly spent writing a Ruby on Rails web application to collect experimental data. \nextItem
+\years{2008} Student placement with {\bf Prof.\ Jeremy Frey}'s group. This included writing Perl scripts as part of a laboratory automation project.
 
-\section*{Prizes, Awards \& Certificates}
-\begin{itemize}
-	\item Completed Bronze, Silver \& Gold Duke of Edinburgh's Awards (completed 2007, 2008, and 2009)
-	\item Received a Silver Medal in the British Biology Olympiad whilst in the Lower Sixth (2009), and Gold Certificates in the British Chemistry Olympiad in both Lower \& Upper Sixth (2009 \& 2010). 
-	\item Came first in the European Society for Human Genetics' annual \textit{DNA Day} essay competition (2009). 
-	\item Awarded the Portsmouth Grammar School's Bosworth Wright Memorial Prize for Science (2009), and Blewitt Cup for Best Prefect (2010).
- 	\item Gold Medal in Public Speaking from the New Era Academy with distinction (2009).
-	\item Royal Yachting Association Day Skipper certificate (2008)
-\end{itemize}
-
-\section*{Publications}
-\begin{itemize}
-\item James Scott-Brown, Harnessing the Cognitive Surplus, \textit{The Science in Society Review} (Cambridge edition), Lent 2011
-\item J A Scott-Brown \textit{et al}, How hot can a fire piston get?, \textit{Phys. Educ.} {\bf 45}, 2010, p.328
-\item James Scott-Brown, Adam and Eve and the freeing of information, \textit{Portsmouth Point}, Spring 2009
-\item James Scott-Brown, The Honoured and the Forgotten, \textit{Portsmouth Point}, Autumn 2009
-\end{itemize}
-
-%\section*{Teaching and Research Fields}
-%\section*{Academic Experience}
-%subsections for each university & department
-%\section*{Research}
-%\subsection*{Work in Progress}
-%\subsection*{Working Papers}
-% \subsection*{Papers Under Review}
-% \subsection*{Publications in Refereed Journals}
-%\subsection*{Unpublished Papers}
-%\section*{Invited Talks}
-%\subsection*{Conference Presentations}
-% %\subsection*{University Seminars}
-%\section*{Teaching}
-
-%\subsection*{Conferences and Workshops Attended}
-%\subsection*{Refereeing}
-
-%\section*{Honors \& Awards}
-%\subsection*{Fellowships}
-
-%\subsection*{Awards}
-%\subsection*{Honorary Societies} (Fraternities)
-
-\section*{Societies}
-\begin{itemize}
-	\item Managing editor of The Triple Helix (Cambridge Chapter) - overall responsibility for finishing production and liaising with printers, as well as running the peer review system, and performing general proof-reading and editing.
-	\item Secretary of the First \& Third Trinity Boat Club - responsible for all race entries, arranging three large dinners per year, and keeping accounts. I also row in the 2nd men's VIII.
-	\item Secretary of the Cambridge University Biological Society
-	\item Secretary of the Trinity College Science Society 
-	\item Student member of the Royal Society of Chemistry, and the American Association for the Advancement of Science. 
-	\item Member of the BioSoc, SciSoc, Phocus and TMS societies of Cambridge University.
-	\item  Whilst at school I did volunteer work as Stage Crew/Stage Management for numerous performances in both school and professional theatres. In December 2010, Stage Managed the musical \textit{Fiddler on the Roof} at the King's Theatre, Southsea.
-\end{itemize}
-%\subsection*{Memberships of Professional \& Academic Societies}
-%\begin{itemize}
-%\item Student member of the American Association for the Advancement of Science (AAAS)
-%\item Member of the Royal Society of Chemistry's ChemNet student programme
-%\end{itemize}
+\section*{Positions of Responsibility}
+\years{2012-14} Webmaster of the First \& Third Trinity Boat Club - maintain and update the Linux/Apache/MySQL/PHP website www.firstandthird.org, and associated email system.\nextItem
+\years{2011-13} Secretary of the First \& Third Trinity Boat Club - responsibilities included making all race entries, arranging three large dinners per year, miscellaneous administration, and keeping accounts. I also rowed in the 2nd men's VIII (2011-12).\nextItem
+\years{2011-12} Managing Editor of The Triple Helix (Cambridge Chapter) - overall responsibility for finishing production in InDesign and liaising with printers, as well as running the peer review system and performing general proof-reading/editing.\nextItem
+\years{2011-12} Secretary of the Cambridge University Biological Society, and the Trinity College Science Society.\nextItem
+	%\item Student member of the American Association for the Advancement of Science. 
+At school I acted as Stage Crew/Stage Management for numerous performances in both school and professional theatres. In December 2010, Stage Managed the musical \textit{Fiddler on the Roof} at the King's Theatre, Southsea.
 
 \section*{Computer Skills}
-\begin{itemize}
-\item General use of Mac OS/Windows/Linux, and Microsoft Office/Apple iWork/OpenOffice.
-\item Command-line use of Unix-like operating systems (Linux, MacOS). Scripting with Perl, Ruby, and Bash.
-\item Technical document preparation with \LaTeX, and desktop publishing with Adobe InDesign.
-\item Web development with PHP/MySQL and Ruby on Rails.
-\end{itemize}
-%\subsection*{Licenses held}
+General use of Mac OS/Windows/Linux, and common software including Apple iWork/Microsoft Office/OpenOffice.\nextItemTight
+Command-line use of Unix-like operating systems (Linux, MacOS). Scripting with Bash.\nextItemTight
+Programming with Perl, Python, Ruby, Java, C++ and MATLAB.\nextItemTight
+Technical document preparation with \LaTeX, and desktop publishing with Adobe InDesign.\nextItemTight
+Web development with PHP/MySQL and Ruby on Rails.
 
-\section*{References}
-\begin{itemize}
-\item Andre Brown, a postdoc in the Schafer group at the MRC LMB, where I did a summer project in 2011 ({\bf abrown@mrc-lmb.cam.ac.uk}).
-\item Madan Babu Mohan, my Director of Studies at Trinity College ({\bf madanm@mrc-lmb.cam.ac.uk}).
-\end{itemize}
 
-\bigskip
+\section*{Prizes, Awards \& Certificates}
+Tripos Prize from Trinity College (2013).\nextItemTight
+Gold Duke of Edinburgh's Award (2009).\nextItemTight
+Gold Certificates in the British Chemistry Olympiad in both Lower \& Upper Sixth (2009 \& 2010). \nextItemTight
+Silver Medal in the British Biology Olympiad whilst in the Lower Sixth (2009). \nextItemTight
+First prize in the European Society for Human Genetics' annual \textit{DNA Day} essay competition (2009). \nextItemTight
+The Portsmouth Grammar School's Bosworth Wright Memorial Prize for Science (2009), and Blewitt Cup for Best Prefect (2010).\nextItemTight
+Gold Medal in Public Speaking from the New Era Academy with distinction (2009).\nextItemTight
+Royal Yachting Association Day Skipper certificate (2008).
 
-% Footer
-\begin{center}
-\begin{footnotesize}
-%Last updated: \today \\
-\end{footnotesize}
-\end{center}
+\section*{Publications}
+James Scott-Brown, Harnessing the Cognitive Surplus, \textit{The Science in Society Review} (Cambridge edition), Lent 2011\nextItemTight
+J A Scott-Brown \textit{et al}, How hot can a fire piston get?, \textit{Phys. Educ.} {\bf 45}, 2010, p.328\nextItemTight
+James Scott-Brown, Adam and Eve and the freeing of information, \textit{Portsmouth Point}, Spring 2009\nextItemTight
+James Scott-Brown, The Honoured and the Forgotten, \textit{Portsmouth Point}, Autumn 2009
+
+\vspace{0.3 cm}
+% References available on request.
+
 \end{document}
