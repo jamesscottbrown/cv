@@ -24,7 +24,7 @@ In my first year at the DTC I did two lab rotations:
 
 * J A Scott-Brown et al, How hot can a fire piston get?, *Phys. Educ.* 45, 2010, p.32 [doi:10.1088/0031-9120/45/4/F04](http://dx.doi.org/10.1088/0031-9120/45/4/F04)
 
-# Talks
+## Talks
 * Talk accepted for the 8th International Workshop on Bio-Design Automation (IWBDA) in August 2016.
 
 
