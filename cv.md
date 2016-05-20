@@ -12,6 +12,7 @@ In my first year at the DTC I did two lab rotations:
 
 ## Research Interests
 
+* Applications of control theory to Synthetic Biology
 * Relationship between natural and engineered systems
 * Information processing in living systems
 * 'Design principles' of living systems
