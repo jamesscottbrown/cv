@@ -1,8 +1,11 @@
-[DTC Homepage](http://www.dtc.ox.ac.uk/people/14/scottbrownj/)
 
-I am currently a D.Phil student on the EPSRC/BBSRC Synthetic Biology Doctoral Training Centre, supervised by **Prof. Antonis Papachristodoulou** and **Dr. Thomas Prescott** (Department of Engineering Science, University of Oxford).
+[Research Homepage](http://sysos.eng.ox.ac.uk/tebio/)
 
-I am investigating what can be achieved using communication between cells.
+
+I am currently a D.Phil student on the 4-year EPSRC/BBSRC Synthetic Biology Doctoral Training Centre program, supervised by **Prof. Antonis Papachristodoulou** (Department of Engineering Science, University of Oxford).
+
+The broad goal of my research is to develop a design framework (including associated algorithms and software) for designing circuits at the population level. Several aspects of my work are focused on solving visualisation and human-computer interaction problems that arise when trying to do this.
+
 
 In my first year at the DTC I did two lab rotations:
 
@@ -14,22 +17,32 @@ In my first year at the DTC I did two lab rotations:
 
 * Applications of control theory to Synthetic Biology
 * Relationship between natural and engineered systems
-* Information processing in living systems
 * 'Design principles' of living systems
-* Theoretical aspects of synthetic biology
-* Fundamental constraints and performance limits
+* Visualization and Human-Computer Interaction
 
-## Publications
-* James Scott-Brown, Harnessing the Cognitive Surplus, *The Science in Society Review (Cambridge edition)*, [Issue 12, Lent 2011](http://camtriplehelix.com/?file=journal/issue-12)
+## Publications (peer-reviewed journal papers)
+*  **James Scott-Brown**, Charles Ravarani, Mr. Tilman Flock, M. Madan Babu. Visualization. Analysis of non-covalent contacts in biomolecules. Melis Kayikci, AJ Venkatakrishnan. Under review.
 
-* J A Scott-Brown et al, How hot can a fire piston get?, *Phys. Educ.* 45, 2010, p.32 [doi:10.1088/0031-9120/45/4/F04](http://dx.doi.org/10.1088/0031-9120/45/4/F04)
+* **James Scott-Brown**, Antonis Papachristodoulou. sbml-diff: A tool for visually comparing SBML models in synthetic biology.  ACS Synthetic Biology. Dec 2016. DOI: [10.1021/acssynbio.6b00273](http://dx.doi.org/10.1021/acssynbio.6b00273)
+
+* **James Scott-Brown**, O A Cunningham, B C Goad. How hot can a fire piston get?, *Physics Education* 45, 2010, p.32 [DOI:10.1088/0031-9120/45/4/F04](http://dx.doi.org/10.1088/0031-9120/45/4/F04)
 
 ## Talks
-* Talk accepted for the 8th International Workshop on Bio-Design Automation (IWBDA) in August 2016.
+* I have been **invited** to give an oral presentation at the IET Engineering of Biology conference in December 2017.
 
+* An abstract about interfaces for expressing laboratory protocols was presented orally at the 9th International Workshop on Bio-Design Automation (IWBDA) in August 2017.
 
+* An abstract about visually presenting and comparing SBML models was presented orally at the 8th International Workshop on Bio-Design Automation (IWBDA) in August 2016. 
 
-## Background
+## Posters
+
+* *Visualization of Temporal Logic Specifications*, Eurovis, June 2017.
+* *Visual Comparison of SBML Models*, Computational Modeling in Biology (COMBINE), September 2016 
+
+## Professional service
+* Maintain [visperception.com](http://visperception.com), a bibliography of experimental studies of the perception of visualizations
+
+## Education
 
 * BA and M.Eng (Cantab) 2014
 * 2013-14: Part IIB of the Engineering Tripos (Merit). Completed project on
@@ -48,7 +61,7 @@ Computational Auditory Scene Analysis, supervised by Dr. Rich Turner. Studied th
 * A-levels in Physics, Chemistry, Biology, Mathematics and Further Mathematics.
 
 
-## Summer placements
+## Student placements
 
 * 2013: Software Developer Intern at **The MathWorks**. Prototyped a web GUI using JavaScript and the Dojo toolkit. Also implemented a new graph layout and improved GUI for a dependency graph viewer.
 
