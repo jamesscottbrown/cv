@@ -21,7 +21,7 @@ In my first year at the DTC I did two lab rotations:
 * Visualization and Human-Computer Interaction
 
 ## Publications (peer-reviewed journal papers)
-*  **James Scott-Brown**, Charles Ravarani, Mr. Tilman Flock, M. Madan Babu. Visualization. Analysis of non-covalent contacts in biomolecules. Melis Kayikci, AJ Venkatakrishnan. Under review.
+*  Melis Kayikci, AJ Venkatakrishnan, **James Scott-Brown**, Charles Ravarani, Mr. Tilman Flock, M. Madan Babu. Visualization. Analysis of non-covalent contacts in biomolecules. Under review.
 
 * **James Scott-Brown**, Antonis Papachristodoulou. sbml-diff: A tool for visually comparing SBML models in synthetic biology.  ACS Synthetic Biology. Dec 2016. DOI: [10.1021/acssynbio.6b00273](http://dx.doi.org/10.1021/acssynbio.6b00273)
 
