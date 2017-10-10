@@ -2,9 +2,9 @@
 [Research Homepage](http://sysos.eng.ox.ac.uk/tebio/)
 
 
-I am currently a D.Phil student on the 4-year EPSRC/BBSRC Synthetic Biology Doctoral Training Centre program, supervised by **Prof. Antonis Papachristodoulou** (Department of Engineering Science, University of Oxford).
+I am currently a D.Phil student on the 4-year EPSRC/BBSRC Synthetic Biology Centre for Doctoral Training program, supervised by **Prof. Antonis Papachristodoulou** (Department of Engineering Science, University of Oxford).
 
-The broad goal of my research is to develop a design framework (including associated algorithms and software) for designing circuits at the population level. Several aspects of my work are focused on solving visualisation and human-computer interaction problems that arise when trying to do this.
+The broad goal of my research is to develop a design framework (including associated algorithms and software) for designing biological circuits at the population level. A major focus is on solving visualisation and human-computer interaction problems that arise when trying to do this.
 
 ## Research Interests
 
@@ -34,18 +34,21 @@ Computational Auditory Scene Analysis, supervised by Dr. Rich Turner. Studied th
 
 
 ## Publications (peer-reviewed journal papers)
-*  Melis Kayikci, AJ Venkatakrishnan, **James Scott-Brown**, Charles Ravarani, Mr. Tilman Flock, M. Madan Babu. Visualization. Analysis of non-covalent contacts in biomolecules. Under review.
+
+*  **James Scott-Brown**, Antonis Papachristodoulou. Visual representation of experimental protocols. *In preparation*.
+
+*  Melis Kayikci, AJ Venkatakrishnan, **James Scott-Brown**, Charles Ravarani, Mr. Tilman Flock, M. Madan Babu. Visualization. Analysis of non-covalent contacts in biomolecules. *Under review*.
 
 * **James Scott-Brown**, Antonis Papachristodoulou. sbml-diff: A tool for visually comparing SBML models in synthetic biology.  ACS Synthetic Biology. Dec 2016. DOI: [10.1021/acssynbio.6b00273](http://dx.doi.org/10.1021/acssynbio.6b00273)
 
 * **James Scott-Brown**, O A Cunningham, B C Goad. How hot can a fire piston get?, *Physics Education* 45, 2010, p.32 [DOI:10.1088/0031-9120/45/4/F04](http://dx.doi.org/10.1088/0031-9120/45/4/F04)
 
 ## Talks
-* I have been **invited** to give an oral presentation at the IET Engineering of Biology conference in December 2017.
+* December 2017:  **invited** to give an oral presentation at the IET Engineering of Biology in London, UK.
 
-* An abstract about interfaces for expressing laboratory protocols was presented orally at the 9th International Workshop on Bio-Design Automation (IWBDA) in August 2017.
+* August 2017: orally presented an abstract about interfaces for expressing laboratory protocols at the 9th International Workshop on Bio-Design Automation (IWBDA) in Pittsburg, USA.
 
-* An abstract about visually presenting and comparing SBML models was presented orally at the 8th International Workshop on Bio-Design Automation (IWBDA) in August 2016. 
+* August 2016: orally presented an abstract about visually presenting and comparing SBML models at the 8th International Workshop on Bio-Design Automation (IWBDA) in Necastle, UK. 
 
 ## Posters
 
@@ -67,9 +70,9 @@ Computational Auditory Scene Analysis, supervised by Dr. Rich Turner. Studied th
 
 * 2011: Student placement with **Dr Bill Schafer's** group at the MRC Laboratory of Molecular Biology. Wrote a MATLAB program to play videos of experiments, and interact with metadata and annotations stored in both a MySQL database and binary files. I also had some exposure to *C. elegans* experimental methods, including behavioural assays and calcium imaging.
 
-* 2010: Student placement with **Prof. Jeremy Frey's** group at the University of Southampton. This was mostly spent writing a Ruby on Rails web application to collect experimental data
+* 2010: Student placement with **Prof. Jeremy Frey's** group at the University of Southampton. This was mostly spent writing a Ruby on Rails web application to collect experimental data.
 
-* 2008: Student placement with **Prof. Jeremy Frey's** group. This included writing Perl scripts as part of a laboratory automation project
+* 2008: Student placement with **Prof. Jeremy Frey's** group. This included writing Perl scripts as part of a laboratory automation project.
 
 
 ## Hobbies
