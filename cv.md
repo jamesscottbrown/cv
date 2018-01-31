@@ -35,11 +35,11 @@ Computational Auditory Scene Analysis, supervised by Dr. Rich Turner. Studied th
 
 ## Publications (peer-reviewed journal papers)
 
-*  **James Scott-Brown**, Antonis Papachristodoulou. Visual representation of experimental protocols. *In preparation*.
+*  **James Scott-Brown**, Antonis Papachristodoulou. Visual representation of experimental protocols. ([bioRxiv preprint](https://doi.org/10.1101/226852))
 
-*  Melis Kayikci, AJ Venkatakrishnan, **James Scott-Brown**, Charles Ravarani, Mr. Tilman Flock, M. Madan Babu. Visualization. Analysis of non-covalent contacts in biomolecules. *Under review*.
+*  Melis Kayikci, AJ Venkatakrishnan, **James Scott-Brown**, Charles Ravarani, Mr. Tilman Flock, M. Madan Babu. Visualization. Analysis of non-covalent contacts in biomolecules. *Nature Structural & Molecular Biology*. Jan 2018.DOI: [10.1038/s41594-017-0019-z](http://dx.doi.org/10.1038/s41594-017-0019-z)
 
-* **James Scott-Brown**, Antonis Papachristodoulou. sbml-diff: A tool for visually comparing SBML models in synthetic biology.  ACS Synthetic Biology. Dec 2016. DOI: [10.1021/acssynbio.6b00273](http://dx.doi.org/10.1021/acssynbio.6b00273)
+* **James Scott-Brown**, Antonis Papachristodoulou. sbml-diff: A tool for visually comparing SBML models in synthetic biology.  *ACS Synthetic Biology*. Dec 2016. DOI: [10.1021/acssynbio.6b00273](http://dx.doi.org/10.1021/acssynbio.6b00273)
 
 * **James Scott-Brown**, O A Cunningham, B C Goad. How hot can a fire piston get?, *Physics Education* 45, 2010, p.32 [DOI:10.1088/0031-9120/45/4/F04](http://dx.doi.org/10.1088/0031-9120/45/4/F04)
 
