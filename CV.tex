@@ -20,7 +20,7 @@
 \def\name{James Scott-Brown}
 
 % Make it tighter:
-\setlength{\parskip}{0pt}
+\setlength{\parskip}{5pt}
 \setlength{\parsep}{0pt}
 \setlength{\partopsep}{0pt}
 \usepackage[compact]{titlesec}
@@ -62,6 +62,8 @@
   \end{compactitem}
 }
 
+% Don't number sections
+\setcounter{secnumdepth}{0}
 
 % Define \years to put years in margin
 % from http://nitens.org/taraborelli/cvtex
@@ -85,84 +87,197 @@
 
 \vspace{0.25in}
 \begin{minipage}[t]{0.5\textwidth}
-Trinity College,\\
-Cambridge\\
-CB2 1TQ\\ \\
+\begin{tabular}{l}  	
+Synthetic Biology Centre for Doctoral Training,\\
+University of Oxford\\
 http://jamesscottbrown.com\\
-js904@cam.ac.uk \\
+james.scott-brown@dtc.ox.ac.uk \\ \\
+\end{tabular}
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
 \begin{tabular}{ll}  	
 Date of Birth: &October 19, 1991 \\
-Citizenship: &British
+Citizenship: &British \\
+ORCID: &\href{https://orcid.org/0000-0001-5642-8346}{0000-0001-5642-8346} \\ \\
 \end{tabular}
 \end{minipage}
 
+\href{http://sysos.eng.ox.ac.uk/tebio/}{Research Homepage}
 
-\section*{Education}
-\years{2010-} Trinity College, Cambridge\\[0.5\baselineskip]
-\years{2012-13} {\bf Part IIB of the Engineering Tripos (Class I)}. Doing project on \textit{Computational Auditory Scene Analysis}, supervised by Dr. Rich Turner. Studying the modules:\nextItem
-\small 
-\begin{tabular}{ll}
-4F2  Robust and non-linear systems and control & 4M17 Practical optimisation\\
-4F3  Optimal and predictive control & 4G5  Molecular modelling\\
-4F10 Statistical Pattern Processing & 4G3  Computational neuroscience\\
-4F13 Machine Learning & 4E6  Accounting and finance\\
-\end{tabular}
-\normalsize \nextItem
-\years{2012-13} {\bf Part IIA of the Engineering Tripos (Class I)}. Studied the modules:\nextItem
-\small 
-\begin{tabular}{ll}
-3E10 Operations Management for Engineers & 3G1 Introduction to Molecular Bioengineering\\
-3F1 Signals and systems & 3G2 Mathematical Physiology\\
-3F2 Systems and Control & 3G3 Introduction to Neuroscience\\
-3F5 Computer and Network Systems & 3G4 Medical Imaging and 3D Computer Graphics\\
-3F6 Software Engineering and Design & 3G5 Biomaterials\\
-\end{tabular}
-\normalsize \nextItem
-\years{2010-12} {\bf Part I of the Natural Sciences Tripos} (Class II). Studied Biology of Cells, Physiology of Organisms, Chemistry, and Mathematics B at Part IA.  Studied Biochemistry \& Molecular Biology, Cell \& Developmental Biology, and Mathematics at Part IB.\nextItem
-\years{1996-2010} Portsmouth Grammar School \nextItem
-\years{2010} Received {\bf 4 A* grades at A2 level} (Physics, Chemistry, Biology, Mathematics), and {\bf 1 A grade} (Further Mathematics), whilst on a Hornby academic scholarship.\nextItem
-\years{2008} Received {\bf 10 A* grades at GCSE} (Physics, Chemistry, Biology, Mathematics, Business Studies, History, English, English Literature, Latin, and Classical Greek), and {\bf 1 A grade} (French). Also received an {\bf A} in the Additional Mathematics FSMQ, for which there is no A* grade.
+I am currently a D.Phil student on the 4-year EPSRC/BBSRC Synthetic
+Biology Centre for Doctoral Training program, supervised by
+\textbf{Prof.~Antonis Papachristodoulou} (Department of Engineering
+Science, University of Oxford).
 
-\section*{Summer Placements}
-\years{2013} Software Developer Intern at {\bf The MathWorks}. Prototyped a web GUI using JavaScript and the Dojo toolkit. Also implemented a new graph layout and improved GUI for a dependency graph viewer.\nextItem
-\years{2012} Student placement with {\bf Dr Madan Babu Mohan}'s group at the MRC Laboratory of Molecular Biology. Constructed a website to visualise and compare networks of non-covalent interactions within proteins. I implemented the front-end in JavaScript with D3.js, and the backend in C++.\nextItem
-\years{2011} Student placement with {\bf Dr Bill Schafer}'s group at the MRC Laboratory of Molecular Biology. Wrote a MATLAB program to play videos of experiments, and interact with metadata and annotations stored in both a MySQL database and binary files. I also had some exposure to \textit{C. elegans} experimental methods, including behavioural assays and calcium imaging.\nextItem
-\years{2010} Student placement with {\bf Prof.\ Jeremy Frey}'s group at the University of Southampton. This was mostly spent writing a Ruby on Rails web application to collect experimental data. \nextItem
-\years{2008} Student placement with {\bf Prof.\ Jeremy Frey}'s group. This included writing Perl scripts as part of a laboratory automation project.
+The broad goal of my research is to develop a design framework
+(including associated algorithms and software) for designing biological
+circuits at the population level. A major focus is on solving
+visualisation and human-computer interaction problems that arise when
+trying to do this.
 
-\section*{Positions of Responsibility}
-\years{2012-14} Webmaster of the First \& Third Trinity Boat Club - maintain and update the Linux/Apache/MySQL/PHP website www.firstandthird.org, and associated email system.\nextItem
-\years{2011-13} Secretary of the First \& Third Trinity Boat Club - responsibilities included making all race entries, arranging three large dinners per year, miscellaneous administration, and keeping accounts. I also rowed in the 2nd men's VIII (2011-12).\nextItem
-\years{2011-12} Managing Editor of The Triple Helix (Cambridge Chapter) - overall responsibility for finishing production in InDesign and liaising with printers, as well as running the peer review system and performing general proof-reading/editing.\nextItem
-\years{2011-12} Secretary of the Cambridge University Biological Society, and the Trinity College Science Society.\nextItem
-	%\item Student member of the American Association for the Advancement of Science. 
-At school I acted as Stage Crew/Stage Management for numerous performances in both school and professional theatres. In December 2010, Stage Managed the musical \textit{Fiddler on the Roof} at the King's Theatre, Southsea.
+\subsection{Research Interests}\label{research-interests}
 
-\section*{Computer Skills}
-General use of Mac OS/Windows/Linux, and common software including Apple iWork/Microsoft Office/OpenOffice.\nextItemTight
-Command-line use of Unix-like operating systems (Linux, MacOS). Scripting with Bash.\nextItemTight
-Programming with Perl, Python, Ruby, Java, C++ and MATLAB.\nextItemTight
-Technical document preparation with \LaTeX, and desktop publishing with Adobe InDesign.\nextItemTight
-Web development with PHP/MySQL and Ruby on Rails.
+\begin{itemize}
+\tightlist
+\item
+  Applications of control theory to Synthetic Biology
+\item
+  Relationship between natural and engineered systems
+\item
+  `Design principles' of living systems
+\item
+  Visualization and Human-Computer Interaction
+\end{itemize}
 
+\subsection{Education}\label{education}
 
-\section*{Prizes, Awards \& Certificates}
-Tripos Prize from Trinity College (2013).\nextItemTight
-Gold Duke of Edinburgh's Award (2009).\nextItemTight
-Gold Certificates in the British Chemistry Olympiad in both Lower \& Upper Sixth (2009 \& 2010). \nextItemTight
-Silver Medal in the British Biology Olympiad whilst in the Lower Sixth (2009). \nextItemTight
-First prize in the European Society for Human Genetics' annual \textit{DNA Day} essay competition (2009). \nextItemTight
-The Portsmouth Grammar School's Bosworth Wright Memorial Prize for Science (2009), and Blewitt Cup for Best Prefect (2010).\nextItemTight
-Gold Medal in Public Speaking from the New Era Academy with distinction (2009).\nextItemTight
-Royal Yachting Association Day Skipper certificate (2008).
+\begin{itemize}
+\item
+  BA and M.Eng (Cantab) 2014
+\item
+  2013-14: Part IIB of the Engineering Tripos (Merit). Completed project
+  on Computational Auditory Scene Analysis, supervised by Dr.~Rich
+  Turner. Studied the modules:
 
-\section*{Publications}
-James Scott-Brown, Harnessing the Cognitive Surplus, \textit{The Science in Society Review} (Cambridge edition), Lent 2011\nextItemTight
-J A Scott-Brown \textit{et al}, How hot can a fire piston get?, \textit{Phys. Educ.} {\bf 45}, 2010, p.328\nextItemTight
-James Scott-Brown, Adam and Eve and the freeing of information, \textit{Portsmouth Point}, Spring 2009\nextItemTight
-James Scott-Brown, The Honoured and the Forgotten, \textit{Portsmouth Point}, Autumn 2009
+  Robust and non-linear systems and control, Optimal and predictive
+  control, Practical optimisation, Statistical Pattern Processing,
+  Machine Learning, Computational neuroscience, Molecular modelling,
+  Accounting and finance.
+\item
+  2012-12: Part IIA of the Engineering Tripos (Class I). Studied the
+  modules:
+
+  Signals and systems, Systems and Control, Computer and Network
+  Systems, Software Engineering and Design, Medical Imaging and 3D
+  Computer Graphics, Mathematical Physiology, Introduction to
+  Neuroscience, Introduction to Molecular Bioengineering, Biomaterials,
+  Operations Management for Engineers
+\item
+  2011-12: Part I of the Natural Sciences Tripos (Class II). Studied
+  Biology of Cells, Physiology of Organisms, Chemistry, and Mathematics
+  B at Part IA. Studied Biochemistry \& Molecular Biology, Cell \&
+  Developmental Biology, and Mathematics at Part IB.
+\item
+  A-levels in Physics, Chemistry, Biology, Mathematics and Further
+  Mathematics.
+\end{itemize}
+
+\subsection{Publications (peer-reviewed journal
+papers)}\label{publications-peer-reviewed-journal-papers}
+
+\begin{itemize}
+\item
+  \textbf{James Scott-Brown}, Antonis Papachristodoulou. Visual
+  representation of experimental protocols. \emph{In preparation}.
+\item
+  Melis Kayikci, AJ Venkatakrishnan, \textbf{James Scott-Brown}, Charles
+  Ravarani, Mr.~Tilman Flock, M. Madan Babu. Visualization. Analysis of
+  non-covalent contacts in biomolecules. \emph{Under review}.
+\item
+  \textbf{James Scott-Brown}, Antonis Papachristodoulou. sbml-diff: A
+  tool for visually comparing SBML models in synthetic biology. ACS
+  Synthetic Biology. Dec 2016. DOI:
+  \href{http://dx.doi.org/10.1021/acssynbio.6b00273}{10.1021/acssynbio.6b00273}
+\item
+  \textbf{James Scott-Brown}, O A Cunningham, B C Goad. How hot can a
+  fire piston get?, \emph{Physics Education} 45, 2010, p.32
+  \href{http://dx.doi.org/10.1088/0031-9120/45/4/F04}{DOI:10.1088/0031-9120/45/4/F04}
+\end{itemize}
+
+\subsection{Talks}\label{talks}
+
+\begin{itemize}
+\item
+  December 2017: \textbf{invited} to give an oral presentation at the
+  IET Engineering of Biology in London, UK.
+\item
+  August 2017: orally presented an abstract about interfaces for
+  expressing laboratory protocols at the 9th International Workshop on
+  Bio-Design Automation (IWBDA) in Pittsburg, USA.
+\item
+  August 2016: orally presented an abstract about visually presenting
+  and comparing SBML models at the 8th International Workshop on
+  Bio-Design Automation (IWBDA) in Necastle, UK.
+\end{itemize}
+
+\subsection{Posters}\label{posters}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Visualization of Temporal Logic Specifications}, Eurovis, June
+  2017.
+\item
+  \emph{Visual Comparison of SBML Models}, Computational Modeling in
+  Biology (COMBINE), September 2016
+\end{itemize}
+
+\subsection{Professional service}\label{professional-service}
+
+\begin{itemize}
+\tightlist
+\item
+  Maintain \href{http://visperception.com}{visperception.com}, a
+  bibliography of experimental studies of the perception of
+  visualizations
+\end{itemize}
+
+\subsection{Projects}\label{projects}
+
+\begin{itemize}
+\item
+  2014: \textbf{DTC mini-project 1}, on `External Control of Gene
+  Expression', supervised by \textbf{Prof.~Mario di Bernardo}
+  (Department of Engineeirng Mathematics, University of Bristol). This
+  involved designing and simulating controllers that would be
+  implemented in software and control living cells in a microfluidic
+  device.
+\item
+  2014: \textbf{DTC mini-project 2}, on `Applications of cell-cell
+  communication to Synthetic Biology', supervised by
+  \textbf{Prof.~Antonis Papachristodoulou} (Department of Engineering
+  Science, University of Oxford). This involved modelling novel
+  synthetic circuits that exploited quorum sensing systems.
+\item
+  2013: Software Developer Intern at \textbf{The MathWorks}. Prototyped
+  a web GUI using JavaScript and the Dojo toolkit. Also implemented a
+  new graph layout and improved GUI for a dependency graph viewer.
+\item
+  2012: Student placement with \textbf{Dr Madan Babu Mohan's} group at
+  the MRC Laboratory of Molecular Biology. Constructed a website to
+  visualise and compare networks of non-covalent interactions within
+  proteins. I implemented the front-end in JavaScript with D3.js, and
+  the backend in C++.
+\item
+  2011: Student placement with \textbf{Dr Bill Schafer's} group at the
+  MRC Laboratory of Molecular Biology. Wrote a MATLAB program to play
+  videos of experiments, and interact with metadata and annotations
+  stored in both a MySQL database and binary files. I also had some
+  exposure to \emph{C. elegans} experimental methods, including
+  behavioural assays and calcium imaging.
+\item
+  2010: Student placement with \textbf{Prof.~Jeremy Frey's} group at the
+  University of Southampton. This was mostly spent writing a Ruby on
+  Rails web application to collect experimental data.
+\item
+  2008: Student placement with \textbf{Prof.~Jeremy Frey's} group. This
+  included writing Perl scripts as part of a laboratory automation
+  project.
+\end{itemize}
+
+\subsection{Hobbies}\label{hobbies}
+
+\begin{itemize}
+\tightlist
+\item
+  Sailing
+\item
+  Reading
+\item
+  Cooking
+\item
+  Playing with computers (programming, system administration, etc.)
+\end{itemize}
 
 \vspace{0.3 cm}
 % References available on request.
