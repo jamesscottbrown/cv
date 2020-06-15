@@ -1,10 +1,12 @@
 
-I am currently a Research Associate in the Data Science Institute at Imperial College London.
+I am currently a Software Engineer in the Big Data Institute at the University of Oxford.
 
 
 ## Employment
 
-* September 2018- **Research Associate** in the [Data Science Institute](https://www.imperial.ac.uk/data-science/) at Imperial College London. The institute has a 64-screen tiled display with a 130 megapixel resolution driven by either 5 or 32 computers. I am part of the team that develops the software that controls this environment, including the [OVE framework](https://ove.readthedocs.io/en/stable/), and I also create visualizations in a range of domains. Both activities involve considerable amounts of programming using Python and JavaScript.
+* January 2020-: **Software Engineer** in the [Centre for Population Approaches for Non-Communicable Disease Prevention](https://www.ndph.ox.ac.uk/cpnp) within the Nuffield Department of Population Health/[Big Data Institute](https://www.bdi.ox.ac.uk/) at the University of Oxford. I work on a tool that scrapes the websites of online retailers in order to construct a longitudinal dataset of the prices and nutritional content of foods (FoodDB). I am also involved in research using this dataset, including the creation of a browser extension to help consumers make healthier food choices by providing information at the point-of-purchase (BetterBasket).
+
+* September 2018-January 2020: **Research Associate** in the [Data Science Institute](https://www.imperial.ac.uk/data-science/) at Imperial College London. The institute has a 64-screen tiled display with a 130 megapixel resolution driven by either 5 or 32 computers. I was part of the team that develops the software that controls this environment, including the [OVE framework](https://ove.readthedocs.io/en/stable/), and I also created visualizations in a range of domains. Both activities involved considerable amounts of programming using Python and JavaScript.
 
 
 ## Education
@@ -24,7 +26,7 @@ Computational Auditory Scene Analysis, supervised by Dr. Rich Turner. Studied th
     Signals and systems, Systems and Control, Computer and Network Systems, Software Engineering and Design, Medical Imaging and 3D Computer Graphics,  Mathematical Physiology, Introduction to Neuroscience, Introduction to Molecular Bioengineering, Biomaterials, Operations Management for Engineers
 
 
-* 2011-12: Part I of the Natural Sciences Tripos (Class II). Studied Biology of Cells, Physiology of Organisms, Chemistry, and Mathematics B at Part IA. Studied Biochemistry & Molecular Biology, Cell & Developmental Biology, and Mathematics at Part IB.
+* 2010-12: Part I of the Natural Sciences Tripos (Class II). Studied Biology of Cells, Physiology of Organisms, Chemistry, and Mathematics B at Part IA. Studied Biochemistry & Molecular Biology, Cell & Developmental Biology, and Mathematics at Part IB.
 
 * A-levels in Physics, Chemistry, Biology, Mathematics and Further Mathematics.
 
@@ -32,41 +34,49 @@ Computational Auditory Scene Analysis, supervised by Dr. Rich Turner. Studied th
 
 ### Journal articles
 
-* Senaka Fernando, **James Scott-Brown**, Ovidiu Serban, David Birch, David Akroyd, Miguel Molina-Solana, Thomas Heinis, Yike Guo. **OVE: A web framework for scalable rendering of data visualizations**. *Future Generation Computer Systems* (under review)
+1. Senaka Fernando, **James Scott-Brown**, Ovidiu Serban, David Birch, David Akroyd, Miguel Molina-Solana, Thomas Heinis, Yike Guo. **OVE: A web framework for scalable rendering of data visualizations**. *Future Generation Computer Systems* (accepted pending minor revision February 2020)
 
-* Jacob Beal, Tramy Nguyen, Thomas E. Gorochowski, Angel Goni-Moreno, **James Scott-Brown**, James Alastair McLaughlin, Curtis Madsen, Benjamin Aleritsch, Bryan Bartley, Shyam Bhakta, Mike Bissell, Sebastian Castillo Hair, Kevin Clancy, Augustin Luna, Nicolas Le Novere, Zach Palchick, Matthew Pocock, Herbert Sauro, John T. Sexton, Jeffrey J. Tabor, Christopher A. Voigt, Zach Zundel, Chris Myers, Anil Wipat. **Communicating Structure and Function in Synthetic Biology Diagrams.** *ACS Synthetic Biology*. July 2019. DOI: [10.1021/acssynbio.9b00139](http://dx.doi.org/10.1021/acssynbio.9b00139)
+1. Jacob Beal, Tramy Nguyen, Thomas E. Gorochowski, Angel Goni-Moreno, **James Scott-Brown**, James Alastair McLaughlin, Curtis Madsen, Benjamin Aleritsch, Bryan Bartley, Shyam Bhakta, Mike Bissell, Sebastian Castillo Hair, Kevin Clancy, Augustin Luna, Nicolas Le Novere, Zach Palchick, Matthew Pocock, Herbert Sauro, John T. Sexton, Jeffrey J. Tabor, Christopher A. Voigt, Zach Zundel, Chris Myers, Anil Wipat. **Communicating Structure and Function in Synthetic Biology Diagrams.** *ACS Synthetic Biology*. July 2019. DOI: [10.1021/acssynbio.9b00139](http://dx.doi.org/10.1021/acssynbio.9b00139)
 
-* Curtis Madsen, Angel Goni Moreno, Zachary Palchick, Umesh P, Nicholas Roehner, Bryan Bartley, Swapnil Bhatia, Shyam Bhakta, Mike Bissell, Kevin Clancy, Robert Sidney Cox, Thomas Gorochowski, Raik Grunberg, Augustin Luna, James McLaughlin, Tramy Nguyen, Nicolas Le Novere, Matthew Pocock, Herbert Sauro, **James Scott-Brown**, John T. Sexton, Guy-Bart Stan, Jeffrey J. Tabor, Christopher A. Voigt, Zach Zundel, Chris Myers, Jacob Beal, Anil Wipat. **Synthetic Biology Open Language Visual (SBOL Visual) Version 2.1.** *Journal of Integrative Bioinformatics*. June 2019. DOI: [10.1515/jib-2018-0101](https://doi.org/10.1515/jib-2018-0101)
+1. Melis Kayikci, AJ Venkatakrishnan, **James Scott-Brown**, Charles Ravarani, Tilman Flock, M. Madan Babu. **Visualization and analysis of non-covalent contacts in biomolecules.** *Nature Structural & Molecular Biology*. Jan 2018. DOI: [10.1038/s41594-017-0019-z](http://dx.doi.org/10.1038/s41594-017-0019-z)
 
-* Curtis Madsen, Angel Goni Moreno, Umesh P, Zachary Palchick, Nicholas Roehner, Christian Atallah, Bryan Bartley, Kiri Choi, Robert Sidney Cox, Thomas Gorochowski, Raik Grünberg, Chris Macklin, James McLaughlin, Xianwei Meng, Tramy Nguyen, Matthew Pocock, Meher Samineni, **James Scott-Brown**, Ysis Tarter, Michael Zhang, Zhen Zhang, Zach Zundel, Jacob Beal, Michael Bissell, Kevin Clancy, John H. Gennari, Goksel Misirli, Chris Myers, Ernst Oberortner, Herbert Sauro, Anil Wipat. **Synthetic Biology Open Language (SBOL) Version 2.3.** *Journal of Integrative Bioinformatics*. June 2019. DOI: [10.1515/jib-2019-0025](https://doi.org/10.1515/jib-2019-0025)
+1. **James Scott-Brown**, Antonis Papachristodoulou. **sbml-diff: A tool for visually comparing SBML models in synthetic biology.**  *ACS Synthetic Biology*. Dec 2016. DOI: [10.1021/acssynbio.6b00273](http://dx.doi.org/10.1021/acssynbio.6b00273)
 
-*  Melis Kayikci, AJ Venkatakrishnan, **James Scott-Brown**, Charles Ravarani, Mr. Tilman Flock, M. Madan Babu. **Visualization and analysis of non-covalent contacts in biomolecules.** *Nature Structural & Molecular Biology*. Jan 2018. DOI: [10.1038/s41594-017-0019-z](http://dx.doi.org/10.1038/s41594-017-0019-z)
+1. **James Scott-Brown**, Oscar Cunningham, Ben C Goad. **How hot can a fire piston get?**, *Physics Education* 45. July 2010. DOI:[10.1088/0031-9120/45/4/F04](http://dx.doi.org/10.1088/0031-9120/45/4/F04)
 
-* **James Scott-Brown**, Antonis Papachristodoulou. **sbml-diff: A tool for visually comparing SBML models in synthetic biology.**  *ACS Synthetic Biology*. Dec 2016. DOI: [10.1021/acssynbio.6b00273](http://dx.doi.org/10.1021/acssynbio.6b00273)
 
-* **James Scott-Brown**, O A Cunningham, B C Goad. **How hot can a fire piston get?**, *Physics Education* 45, 2010. DOI:[10.1088/0031-9120/45/4/F04](http://dx.doi.org/10.1088/0031-9120/45/4/F04)
+### Specifications published in journals
+
+1. Hasan Baig, Pedro Fontanarossa, Vishwesh Kulkarni, James McLaughlin, Prasant Vaidyanathan, Bryan Bartley, Swapnil Bhatia, Shyam Bhakta, Mike Bissell, KevinClancy, Robert Sidney Cox, Angel Goni Moreno, Thomas Gorochowski, Raik Grunberg, Augustin Luna, Curtis Madsen, Goksel Misirli1, Tramy Nguyen, Nicolas Le Novere, Zachary Palchick, Matthew Pocock, Nicholas Roehner, Herbert Sauro, **James Scott-Brown**, John T. Sexton, Guy-Bart Stan, Jeffrey J.Tabor, Marta Vazquez Vilar, Christopher A. Voigt, Anil Wipat, David Zong, Zach Zundel, Jacob Beal, Chris Myers. **Synthetic Biology Open Language Visual (SBOL Visual) Version 2.2.** *Journal of Integrative Bioinformatics*. *Submitted* March 2020.
+
+1. Hasan Baig, Pedro Fontanarrosa, Vishwesh Kulkarni, James McLaughlin, Prashant Vaidyanathan, Bryan Bartley, Jacob Beal, Matthew Crowther ,Thomas Gorochowski, Raik Grunberg, Goksel Misirli, **James Scott-Brown**, Ernst Oberortner, Anil Wipat, Chris Myers. **Synthetic Biology Open Language (SBOL) Version 3.0.0**. *Journal of Integrative Bioinformatics*. *Submitted* March 2020. 
+
+1. Curtis Madsen, Angel Goni Moreno, Zachary Palchick, Umesh P, Nicholas Roehner, Bryan Bartley, Swapnil Bhatia, Shyam Bhakta, Mike Bissell, Kevin Clancy, Robert Sidney Cox, Thomas Gorochowski, Raik Grunberg, Augustin Luna, James McLaughlin, Tramy Nguyen, Nicolas Le Novere, Matthew Pocock, Herbert Sauro, **James Scott-Brown**, John T. Sexton, Guy-Bart Stan, Jeffrey J. Tabor, Christopher A. Voigt, Zach Zundel, Chris Myers, Jacob Beal, Anil Wipat. **Synthetic Biology Open Language Visual (SBOL Visual) Version 2.1.** *Journal of Integrative Bioinformatics*. June 2019. DOI: [10.1515/jib-2018-0101](https://doi.org/10.1515/jib-2018-0101)
+
+1. Curtis Madsen, Angel Goni Moreno, Umesh P, Zachary Palchick, Nicholas Roehner, Christian Atallah, Bryan Bartley, Kiri Choi, Robert Sidney Cox, Thomas Gorochowski, Raik Grunberg, Chris Macklin, James McLaughlin, Xianwei Meng, Tramy Nguyen, Matthew Pocock, Meher Samineni, **James Scott-Brown**, Ysis Tarter, Michael Zhang, Zhen Zhang, Zach Zundel, Jacob Beal, Michael Bissell, Kevin Clancy, John H. Gennari, Goksel Misirli, Chris Myers, Ernst Oberortner, Herbert Sauro, Anil Wipat. **Synthetic Biology Open Language (SBOL) Version 2.3.** *Journal of Integrative Bioinformatics*. June 2019. DOI: [10.1515/jib-2019-0025](https://doi.org/10.1515/jib-2019-0025)
+
 
 ### Pre-prints
 
-*  **James Scott-Brown**, Antonis Papachristodoulou. **Visual representation of experimental protocols.** bioRxiv DOI: [10.1101/226852](https://doi.org/10.1101/226852))
+1.  **James Scott-Brown**, Antonis Papachristodoulou. **Visual representation of experimental protocols.** bioRxiv DOI: [10.1101/226852](https://doi.org/10.1101/226852)
 
 
 ### Conference Talks
 
-* August 2017: orally presented an abstract about interfaces for expressing laboratory protocols at the 9th International Workshop on Bio-Design Automation (IWBDA) in Pittsburgh, USA.
+1. August 2017: presented an abstract about interfaces for expressing laboratory protocols at the 9th International Workshop on Bio-Design Automation (IWBDA) in Pittsburgh, USA.
 
-* August 2016: orally presented an abstract about visually presenting and comparing SBML models at the 8th International Workshop on Bio-Design Automation (IWBDA) in Newcastle, UK. 
+1. August 2016: presented an abstract about visually presenting and comparing SBML models at the 8th International Workshop on Bio-Design Automation (IWBDA) in Newcastle, UK. 
 
 ### Conference Posters
 
-* **James Scott-Brown**. *A Radial View of the BioVis Challenge 2019 Dataset*. BioVis Workshop (at IEEE VIS). October 2019.
-* **James Scott-Brown**, Antonis Papachristodoulou. *Visualization of Temporal Logic Specifications*. Eurovis, June 2017. DOI: [10.2312/eurp.20171183](http://dx.doi.org/10.2312/eurp.20171183)
-* **James Scott-Brown**, Antonis Papachristodoulou. *Visual Comparison of SBML Models*. Computational Modeling in Biology (COMBINE), September 2016 
+1. **James Scott-Brown**. *A Radial View of the BioVis Challenge 2019 Dataset*. BioVis Workshop (at IEEE VIS). October 2019. ([PDF](http://blog.jamesscottbrown.com/biovis_contest_2019/poster.pdf))
+1. **James Scott-Brown**, Antonis Papachristodoulou. *Visualization of Temporal Logic Specifications*. Eurovis, June 2017. DOI: [10.2312/eurp.20171183](http://dx.doi.org/10.2312/eurp.20171183)
+1. **James Scott-Brown**, Antonis Papachristodoulou. *Visual Comparison of SBML Models*. Computational Modeling in Biology (COMBINE), September 2016.
 
 ### Conference position papers
 
 * **James Scott-Brown** *Presenting Visualization Guideline Collections*, at VisGuides:
-2nd Workshop on the Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (a workshop at IEEE VIS in Berlin), October 2018. [PDF](https://c4pgv.dbvis.de/Scott-Brown_2018.pdf)
+2nd Workshop on the Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (a workshop at IEEE VIS in Berlin), October 2018. ([PDF](https://c4pgv.dbvis.de/Scott-Brown_2018.pdf))
 
 
 ## Professional service
@@ -88,4 +98,3 @@ Computational Auditory Scene Analysis, supervised by Dr. Rich Turner. Studied th
 * 2010: Student placement with **Prof. Jeremy Frey's** group at the University of Southampton. This was mostly spent writing a Ruby on Rails web application to collect experimental data.
 
 * 2008: Student placement with **Prof. Jeremy Frey's** group. This included writing Perl scripts as part of a laboratory automation project.
-
