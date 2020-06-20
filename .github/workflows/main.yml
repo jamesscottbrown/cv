@@ -14,4 +14,22 @@ jobs:
 
     - uses: docker://pandoc/latex:2.9
       with:
-        args: "--template cv-template.tex -o CV.pdf cv.md" 
+        args: "--template cv-template.tex -o CV.tex cv.md"
+
+    - name: Compile LaTeX document
+      uses: dante-ev/latex-action@v0.2.0
+      with:
+        root_file: CV.tex
+        
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add CV.pdf
+        git commit -m "Automatically re-generate PDF"
+          
+    - name: Push changes
+      if: ${{ github.event_name == 'push' }}
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
