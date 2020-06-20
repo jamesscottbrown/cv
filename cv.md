@@ -13,20 +13,7 @@ I am currently a Software Engineer in the Big Data Institute at the University o
 
 *  2014-2019: **D.Phil student** on the 4-year EPSRC/BBSRC [Synthetic Biology Centre for Doctoral Training](http://www.synbio-cdt.ac.uk/) program at the University of Oxford, supervised by **Prof. Antonis Papachristodoulou** (Department of Engineering Science, University of Oxford). My research focused on design tools for synthetic biology, and in particular the visualisation and human-computer interaction problems that must be addressed for these to be effective.
 
-* **BA and M.Eng (Cantab)** conferred 2014
-
-* 2013-14: Part IIB of the Engineering Tripos (Merit). Completed project on
-Computational Auditory Scene Analysis, supervised by Dr. Rich Turner. Studied the modules: 
-
-    Robust and non-linear systems and control, Optimal and predictive control, Practical optimisation, Statistical Pattern Processing, Machine Learning, Computational neuroscience, Molecular modelling, Accounting and finance.
-
-
-* 2012-12: Part IIA of the Engineering Tripos (Class I). Studied the modules:
-
-    Signals and systems, Systems and Control, Computer and Network Systems, Software Engineering and Design, Medical Imaging and 3D Computer Graphics,  Mathematical Physiology, Introduction to Neuroscience, Introduction to Molecular Bioengineering, Biomaterials, Operations Management for Engineers
-
-
-* 2010-12: Part I of the Natural Sciences Tripos (Class II). Studied Biology of Cells, Physiology of Organisms, Chemistry, and Mathematics B at Part IA. Studied Biochemistry & Molecular Biology, Cell & Developmental Biology, and Mathematics at Part IB.
+* **BA and M.Eng (Cantab)** conferred 2014. I read Part IA and IB (first and second year) of the Natural Sciences Tripos, and then Part IIA and IIB (third and fourth year) of the Engineering Tripos.
 
 * A-levels in Physics, Chemistry, Biology, Mathematics and Further Mathematics.
 
