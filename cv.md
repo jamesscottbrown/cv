@@ -1,5 +1,5 @@
 
-I am currently a Software Engineer in the Big Data Institute at the University of Oxford. I am also temporarily working part-time for the University of Ediburgh.
+I am currently a Software Engineer in the Big Data Institute at the University of Oxford. I am also temporarily working part-time as a Research Associate at the University of Edinburgh.
 
 
 ## Employment
