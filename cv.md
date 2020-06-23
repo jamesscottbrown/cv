@@ -7,7 +7,7 @@ I am currently a Software Engineer in the Big Data Institute at the University o
 * April 2020-: **Research Associate** in the [Visual+Inteactive Data](https://visualinteractivedata.github.io/bach.html) group at the University of Edinburgh (60% FTE).
 My main responsibility in this role is to create a tool to help support the writing of local clinical guidelines by enabling clinicians to find similar existing guidelines that have been shared.
 This is intended to help the translation of research findings about COVID-19 into clinical practice.
-I am also involved in various smaller projects related to visualisation in support of [ISARIC 4C](isaric4c.net/) (the Coronavirus Clinical Characterisation Consortium).
+I am also involved in various smaller projects related to visualisation in support of [ISARIC 4C](http://isaric4c.net/) (the Coronavirus Clinical Characterisation Consortium).
 Delivering these projects involves designing new visualisations and user interfaces, and implementing them using Python and JavaScript.
 
 * January 2020-: **Software Engineer** in the [Centre for Population Approaches for Non-Communicable Disease Prevention](https://www.ndph.ox.ac.uk/cpnp) within the Nuffield Department of Population Health/[Big Data Institute](https://www.bdi.ox.ac.uk/) at the University of Oxford. I work on a tool that scrapes the websites of online retailers in order to construct a longitudinal dataset of the prices and nutritional content of foods ([FoodDB](https://www.ndph.ox.ac.uk/cpnp/research-projects/fooddb-and-myshop)). I am also involved in research using this dataset, including the creation of a browser extension to help consumers make healthier food choices by providing information at the point-of-purchase (BetterBasket).
