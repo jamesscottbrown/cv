@@ -83,7 +83,7 @@ Published online 10 June 2020. DOI: [10.1515/jib-2018-0001](https://doi.org/10.1
 
 * 2014: **DTC mini-project 2**, on 'Applications of cell-cell communication to Synthetic Biology', supervised by **Prof. Antonis Papachristodoulou** (Department of Engineering Science, University of Oxford). This involved modelling novel synthetic circuits that exploited quorum sensing systems.
 
-* 2013: Software Developer Intern at **The MathWorks**. Prototyped a web GUI using JavaScript and the Dojo toolkit. Also implemented a new graph layout and improved GUI for a dependency graph viewer.
+* 2013: Software Developer Intern at **The MathWorks**. Prototyped a web GUI using JavaScript and the Dojo toolkit. Also implemented a new graph layout and improved GUI for a dependency graph viewer in Java.
 
 * 2012: Student placement with **Dr Madan Babu Mohan's** group at the MRC Laboratory of Molecular Biology. Constructed a website to visualise and compare networks of non-covalent interactions within proteins. I implemented the front-end in JavaScript with D3.js, and the backend in C++. This project resulted in a paper in *Nature Structural & Molecular Biology*.
 
