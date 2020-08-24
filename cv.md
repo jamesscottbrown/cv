@@ -27,6 +27,8 @@ Delivering these projects involves designing new visualisations and user interfa
 
 ### Journal articles
 
+1.James Alastair McLaughlin, Jacob Beal, Goksel Misirli, Raik Grünberg, Bryan A Bartley, **James Scott-Brown**, Prashant Vaidyanathan, Pedro Fontanarrosa, Ernst Oberortner, Anil Wipat, Thomas Edward Gorochowski, Chris John Myers. **The Synthetic Biology Open Language (SBOL) Version 3: Simplified Data Exchange for Bioengineering**. *Frontiers in Bioengineering and Biotechnology*. Accepted.
+
 1. Senaka Fernando, **James Scott-Brown**, Ovidiu Serban, David Birch, David Akroyd, Miguel Molina-Solana, Thomas Heinis, Yike Guo. **OVE: A web framework for scalable rendering of data visualizations**. *Future Generation Computer Systems*. Published online 11 June 2020. DOI: [10.1016/j.future.2020.06.011](https://doi.org/10.1016/j.future.2020.06.011)
 
 1. Jacob Beal, Tramy Nguyen, Thomas E. Gorochowski, Angel Goni-Moreno, **James Scott-Brown**, James Alastair McLaughlin, Curtis Madsen, Benjamin Aleritsch, Bryan Bartley, Shyam Bhakta, Mike Bissell, Sebastian Castillo Hair, Kevin Clancy, Augustin Luna, Nicolas Le Novere, Zach Palchick, Matthew Pocock, Herbert Sauro, John T. Sexton, Jeffrey J. Tabor, Christopher A. Voigt, Zach Zundel, Chris Myers, Anil Wipat. **Communicating Structure and Function in Synthetic Biology Diagrams.** *ACS Synthetic Biology*. July 2019. DOI: [10.1021/acssynbio.9b00139](http://dx.doi.org/10.1021/acssynbio.9b00139)
@@ -40,7 +42,7 @@ Delivering these projects involves designing new visualisations and user interfa
 
 ### Specifications published in journals
 
-1. Hasan Baig, Pedro Fontanarossa, Vishwesh Kulkarni, James McLaughlin, Prasant Vaidyanathan, Bryan Bartley, Swapnil Bhatia, Shyam Bhakta, Mike Bissell, KevinClancy, Robert Sidney Cox, Angel Goni Moreno, Thomas Gorochowski, Raik Grunberg, Augustin Luna, Curtis Madsen, Goksel Misirli1, Tramy Nguyen, Nicolas Le Novere, Zachary Palchick, Matthew Pocock, Nicholas Roehner, Herbert Sauro, **James Scott-Brown**, John T. Sexton, Guy-Bart Stan, Jeffrey J.Tabor, Marta Vazquez Vilar, Christopher A. Voigt, Anil Wipat, David Zong, Zach Zundel, Jacob Beal, Chris Myers. **Synthetic Biology Open Language Visual (SBOL Visual) Version 2.2.** *Journal of Integrative Bioinformatics*. 
+1. Hasan Baig, Pedro Fontanarossa, Vishwesh Kulkarni, James McLaughlin, Prasant Vaidyanathan, Bryan Bartley, Swapnil Bhatia, Shyam Bhakta, Mike Bissell, KevinClancy, Robert Sidney Cox, Angel Goni Moreno, Thomas Gorochowski, Raik Grunberg, Augustin Luna, Curtis Madsen, Goksel Misirli, Tramy Nguyen, Nicolas Le Novere, Zachary Palchick, Matthew Pocock, Nicholas Roehner, Herbert Sauro, **James Scott-Brown**, John T. Sexton, Guy-Bart Stan, Jeffrey J.Tabor, Marta Vazquez Vilar, Christopher A. Voigt, Anil Wipat, David Zong, Zach Zundel, Jacob Beal, Chris Myers. **Synthetic Biology Open Language Visual (SBOL Visual) Version 2.2.** *Journal of Integrative Bioinformatics*. 
 Published online 10 June 2020. DOI: [10.1515/jib-2018-0001](https://doi.org/10.1515/jib-2018-0001)
 
 1. Hasan Baig, Pedro Fontanarrosa, Vishwesh Kulkarni, James McLaughlin, Prashant Vaidyanathan, Bryan Bartley, Jacob Beal, Matthew Crowther ,Thomas Gorochowski, Raik Grunberg, Goksel Misirli, **James Scott-Brown**, Ernst Oberortner, Anil Wipat, Chris Myers. **Synthetic Biology Open Language (SBOL) Version 3.0.0**. *Journal of Integrative Bioinformatics*. *Accepted*. 
