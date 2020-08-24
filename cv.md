@@ -27,7 +27,7 @@ Delivering these projects involves designing new visualisations and user interfa
 
 ### Journal articles
 
-1.James Alastair McLaughlin, Jacob Beal, Goksel Misirli, Raik Grünberg, Bryan A Bartley, **James Scott-Brown**, Prashant Vaidyanathan, Pedro Fontanarrosa, Ernst Oberortner, Anil Wipat, Thomas Edward Gorochowski, Chris John Myers. **The Synthetic Biology Open Language (SBOL) Version 3: Simplified Data Exchange for Bioengineering**. *Frontiers in Bioengineering and Biotechnology*. Accepted.
+1. James Alastair McLaughlin, Jacob Beal, Goksel Misirli, Raik Grünberg, Bryan A Bartley, **James Scott-Brown**, Prashant Vaidyanathan, Pedro Fontanarrosa, Ernst Oberortner, Anil Wipat, Thomas Edward Gorochowski, Chris John Myers. **The Synthetic Biology Open Language (SBOL) Version 3: Simplified Data Exchange for Bioengineering**. *Frontiers in Bioengineering and Biotechnology*. Accepted.
 
 1. Senaka Fernando, **James Scott-Brown**, Ovidiu Serban, David Birch, David Akroyd, Miguel Molina-Solana, Thomas Heinis, Yike Guo. **OVE: A web framework for scalable rendering of data visualizations**. *Future Generation Computer Systems*. Published online 11 June 2020. DOI: [10.1016/j.future.2020.06.011](https://doi.org/10.1016/j.future.2020.06.011)
 
