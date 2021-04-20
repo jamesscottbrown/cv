@@ -8,7 +8,7 @@ I am currently a Software Engineer in the Big Data Institute at the University o
 My role is to develop the visualization component of a repository of epidemiological models applied to the COVID-19 pandemic, the papers using these, and the associated metadata.
 
 * April 2020-January 2021: **Research Associate** in the [Visual+Interactive Data](https://visualinteractivedata.github.io/) group at the University of Edinburgh (60% FTE).
-My main responsibility in this role was to create a tool to help support the writing of local clinical guidelines that incorporated the latest research findings by enabling clinicians to find similar existing guidelines that have been shared.
+My main responsibility in this role was to create a tool to help support the writing of local clinical guidelines that incorporate the latest research findings by enabling clinicians to find similar existing guidelines that have been shared.
 This was [repurposed](http://covidreports.co.uk/) to help Public Health doctors and other users to find the evidence documents informing government policy and advice.
 I was also involved in various smaller projects related to visualization in support of [ISARIC 4C](http://isaric4c.net/) (the Coronavirus Clinical Characterisation Consortium), such as risk calculators.
 Delivering these projects involves designing new visualizations and user interfaces, and implementing them using Python and JavaScript.
