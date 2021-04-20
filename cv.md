@@ -42,7 +42,7 @@ A common theme across all of these posts is the design of interactive visualizat
 
 1. Jacob Beal, Tramy Nguyen, Thomas E. Gorochowski, Angel Goni-Moreno, **James Scott-Brown**, James Alastair McLaughlin, Curtis Madsen, Benjamin Aleritsch, Bryan Bartley, Shyam Bhakta, Mike Bissell, Sebastian Castillo Hair, Kevin Clancy, Augustin Luna, Nicolas Le Novere, Zach Palchick, Matthew Pocock, Herbert Sauro, John T. Sexton, Jeffrey J. Tabor, Christopher A. Voigt, Zach Zundel, Chris Myers, Anil Wipat. **Communicating Structure and Function in Synthetic Biology Diagrams.** *ACS Synthetic Biology*. July 2019. DOI: [10.1021/acssynbio.9b00139](http://dx.doi.org/10.1021/acssynbio.9b00139)
 
-1. Melis Kayikci, AJ Venkatakrishnan, **James Scott-Brown**, Charles Ravarani, Tilman Flock, M. Madan Babu. **Visualization and analysis of non-covalent contacts in biomolecules.** *Nature Structural & Molecular Biology*. Jan 2018. DOI: [10.1038/s41594-017-0019-z](http://dx.doi.org/10.1038/s41594-017-0019-z)
+1. Melis Kayikci, AJ Venkatakrishnan, **James Scott-Brown**, Charles Ravarani, Tilman Flock, M. Madan Babu. **Visualization and analysis of non-covalent contacts in biomolecules using the Protein Contacts Atlas.** *Nature Structural & Molecular Biology*. Jan 2018. DOI: [10.1038/s41594-017-0019-z](http://dx.doi.org/10.1038/s41594-017-0019-z)
 
 1. **James Scott-Brown**, Antonis Papachristodoulou. **sbml-diff: A tool for visually comparing SBML models in synthetic biology.**  *ACS Synthetic Biology*. Dec 2016. DOI: [10.1021/acssynbio.6b00273](http://dx.doi.org/10.1021/acssynbio.6b00273)
 
