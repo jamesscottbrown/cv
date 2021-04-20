@@ -18,6 +18,7 @@ I was working in this role full-time, but reduced my hours whilst working on pro
 
 * September 2018-January 2020: **Research Associate** in the [Data Science Institute](https://www.imperial.ac.uk/data-science/) at Imperial College London. The institute has a 64-screen tiled display with a 130 megapixel resolution driven by either 5 or 32 computers. I was part of the team that develops the software that controls this environment, including the [OVE framework](https://ove.readthedocs.io/en/stable/), and I also created visualizations in a range of domains. Both activities involved considerable amounts of programming using Python and JavaScript.
 
+A common theme across all of these posts is the design of interactive visualizations, and their implementation using Python and JavaScript.
 
 ## Education
 
