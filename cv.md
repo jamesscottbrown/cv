@@ -4,13 +4,17 @@ I am currently a Software Engineer in the Big Data Institute at the University o
 
 ## Employment
 
-* April 2020-: **Research Associate** in the [Visual+Inteactive Data](https://visualinteractivedata.github.io/) group at the University of Edinburgh (60% FTE).
-My main responsibility in this role is to create a tool to help support the writing of local clinical guidelines by enabling clinicians to find similar existing guidelines that have been shared.
-This is intended to help the translation of research findings about COVID-19 into clinical practice.
-I am also involved in various smaller projects related to visualisation in support of [ISARIC 4C](http://isaric4c.net/) (the Coronavirus Clinical Characterisation Consortium).
+* April 2021-: **Research Associate** in the [Visual+Inteactive Data](https://visualinteractivedata.github.io/) group at the University of Edinburgh (60% FTE), in collaboration with the Royal (Dick) School of Veterinary Studies. 
+My role is to develop the visualization component of a repository of epidemiological models applied to the COVID-19 panemic, the papers using these, and the associated metadata.
+
+* April 2020-January 2021: **Research Associate** in the [Visual+Inteactive Data](https://visualinteractivedata.github.io/) group at the University of Edinburgh (60% FTE).
+My main responsibility in this role was to create a tool to help support the writing of local clinical guidelines that incorporated the latest research findings by enabling clinicians to find similar existing guidelines that have been shared.
+This was [repurposed](http://covidreports.co.uk/) to help Public Health doctors and other users to find the evidence documents informing governemnt policy and advice.
+I was also involved in various smaller projects related to visualisation in support of [ISARIC 4C](http://isaric4c.net/) (the Coronavirus Clinical Characterisation Consortium), such as risk calculators.
 Delivering these projects involves designing new visualisations and user interfaces, and implementing them using Python and JavaScript.
 
-* January 2020-: **Software Engineer** in the [Centre for Population Approaches for Non-Communicable Disease Prevention](https://www.ndph.ox.ac.uk/cpnp) within the Nuffield Department of Population Health/[Big Data Institute](https://www.bdi.ox.ac.uk/) at the University of Oxford. I work on a tool that scrapes the websites of online retailers in order to construct a longitudinal dataset of the prices and nutritional content of foods ([FoodDB](https://www.ndph.ox.ac.uk/cpnp/research-projects/fooddb-and-myshop)). I am also involved in research using this dataset, including the creation of a browser extension to help consumers make healthier food choices by providing information at the point-of-purchase (BetterBasket).
+* **January 2020-**: **Software Engineer** in the [Centre for Population Approaches for Non-Communicable Disease Prevention](https://www.ndph.ox.ac.uk/cpnp) within the Nuffield Department of Population Health/[Big Data Institute](https://www.bdi.ox.ac.uk/) at the University of Oxford. I work on a tool that scrapes the websites of online retailers in order to construct a longitudinal dataset of the prices and nutritional content of foods ([FoodDB](https://www.ndph.ox.ac.uk/cpnp/research-projects/fooddb-and-myshop)). I am also involved in research using this dataset, including the creation of a browser extension to help consumers make healthier food choices by providing information at the point-of-purchase (BetterBasket).
+I was working in this role full-time, but reduced my hours whilst working on projects at the University of Edinburgh.
 
 * September 2018-January 2020: **Research Associate** in the [Data Science Institute](https://www.imperial.ac.uk/data-science/) at Imperial College London. The institute has a 64-screen tiled display with a 130 megapixel resolution driven by either 5 or 32 computers. I was part of the team that develops the software that controls this environment, including the [OVE framework](https://ove.readthedocs.io/en/stable/), and I also created visualizations in a range of domains. Both activities involved considerable amounts of programming using Python and JavaScript.
 
