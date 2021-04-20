@@ -91,7 +91,7 @@ Published online 10 June 2020. DOI: [10.1515/jib-2018-0001](https://doi.org/10.1
 * I maintain [visperception.com](http://visperception.com), a bibliography of experimental studies of the perception of visualizations.
 * I aggregated links to open-access preprints and materials for EuroVis papers in [2018](http://oa-eurovis.jamesscottbrown.com/2018) and [2019](http://oa-eurovis.jamesscottbrown.com/2019/); this effort was then made largely redundant by a policy change that made all EuroVis papers open-access from 2020 onwards
 
-## Projects
+## Student Projects/Placements
 
 * 2014: **DTC mini-project 1**, on 'External Control of Gene Expression', supervised by **Prof. Mario di Bernardo** (Department of Engineeirng Mathematics, University of Bristol). This involved designing and simulating controllers that would be implemented in software and control living cells in a microfluidic device. 
 
