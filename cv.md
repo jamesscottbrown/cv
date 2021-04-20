@@ -10,8 +10,8 @@ My role is to develop the visualization component of a repository of epidemiolog
 * April 2020-January 2021: **Research Associate** in the [Visual+Interactive Data](https://visualinteractivedata.github.io/) group at the University of Edinburgh (60% FTE).
 My main responsibility in this role was to create a tool to help support the writing of local clinical guidelines that incorporated the latest research findings by enabling clinicians to find similar existing guidelines that have been shared.
 This was [repurposed](http://covidreports.co.uk/) to help Public Health doctors and other users to find the evidence documents informing government policy and advice.
-I was also involved in various smaller projects related to visualisation in support of [ISARIC 4C](http://isaric4c.net/) (the Coronavirus Clinical Characterisation Consortium), such as risk calculators.
-Delivering these projects involves designing new visualisations and user interfaces, and implementing them using Python and JavaScript.
+I was also involved in various smaller projects related to visualization in support of [ISARIC 4C](http://isaric4c.net/) (the Coronavirus Clinical Characterisation Consortium), such as risk calculators.
+Delivering these projects involves designing new visualizations and user interfaces, and implementing them using Python and JavaScript.
 
 * **January 2020-**: **Software Engineer** in the [Centre for Population Approaches for Non-Communicable Disease Prevention](https://www.ndph.ox.ac.uk/cpnp) within the Nuffield Department of Population Health/[Big Data Institute](https://www.bdi.ox.ac.uk/) at the University of Oxford. I work on a tool that scrapes the websites of online retailers in order to construct a longitudinal dataset of the prices and nutritional content of foods ([FoodDB](https://www.ndph.ox.ac.uk/cpnp/research-projects/fooddb-and-myshop)). I am also involved in research using this dataset, including the creation of a browser extension to help consumers make healthier food choices by providing information at the point-of-purchase (BetterBasket).
 I was working in this role full-time, but reduced my hours whilst working on projects at the University of Edinburgh.
@@ -22,7 +22,7 @@ A common theme across all of these posts is the design of interactive visualizat
 
 ## Education
 
-*  2014-2019: **D.Phil student** on the 4-year EPSRC/BBSRC [Synthetic Biology Centre for Doctoral Training](http://www.synbio-cdt.ac.uk/) program at the University of Oxford, supervised by **Prof. Antonis Papachristodoulou** (Department of Engineering Science, University of Oxford). My research focused on design tools for synthetic biology, and in particular the visualisation and human-computer interaction problems that must be addressed for these to be effective.
+*  2014-2019: **D.Phil student** on the 4-year EPSRC/BBSRC [Synthetic Biology Centre for Doctoral Training](http://www.synbio-cdt.ac.uk/) program at the University of Oxford, supervised by **Prof. Antonis Papachristodoulou** (Department of Engineering Science, University of Oxford). My research focused on design tools for synthetic biology, and in particular the visualization and human-computer interaction problems that must be addressed for these to be effective.
 
 * **BA and M.Eng (Cantab)** conferred 2014. I read Part IA and IB (first and second year) of the Natural Sciences Tripos, and then Part IIA and IIB (third and fourth year) of the Engineering Tripos.
 
@@ -104,7 +104,7 @@ Published online 10 June 2020. DOI: [10.1515/jib-2018-0001](https://doi.org/10.1
 
 * 2013: Software Developer Intern at **The MathWorks**. Prototyped a web GUI using JavaScript and the Dojo toolkit. Also implemented a new graph layout and improved GUI for a dependency graph viewer in Java.
 
-* 2012: Student placement with **Dr Madan Babu Mohan's** group at the MRC Laboratory of Molecular Biology. Constructed a website to visualise and compare networks of non-covalent interactions within proteins. I implemented the front-end in JavaScript with D3.js, and the backend in C++. This project resulted in a paper in *Nature Structural & Molecular Biology*.
+* 2012: Student placement with **Dr Madan Babu Mohan's** group at the MRC Laboratory of Molecular Biology. Constructed a website to visualize and compare networks of non-covalent interactions within proteins. I implemented the front-end in JavaScript with D3.js, and the backend in C++. This project resulted in a paper in *Nature Structural & Molecular Biology*.
 
 * 2011: Student placement with **Dr Bill Schafer's** group at the MRC Laboratory of Molecular Biology. Wrote a MATLAB program to play videos of experiments, and interact with metadata and annotations stored in both a MySQL database and binary files. I also had some exposure to *C. elegans* experimental methods, including behavioural assays and calcium imaging.
 
