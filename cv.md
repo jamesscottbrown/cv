@@ -1,5 +1,5 @@
 
-I am currently a Software Engineer in the Big Data Institute at the University of Oxford. I am also working part-time as a Research Associate at the University of Edinburgh on a short-term contract.
+I am currently a Software Engineer in the Big Data Institute at the University of Oxford. I also work part-time as a Research Associate at the University of Edinburgh on a short-term contract.
 
 
 ## Employment
@@ -16,7 +16,7 @@ Delivering these projects involves designing new visualisations and user interfa
 * **January 2020-**: **Software Engineer** in the [Centre for Population Approaches for Non-Communicable Disease Prevention](https://www.ndph.ox.ac.uk/cpnp) within the Nuffield Department of Population Health/[Big Data Institute](https://www.bdi.ox.ac.uk/) at the University of Oxford. I work on a tool that scrapes the websites of online retailers in order to construct a longitudinal dataset of the prices and nutritional content of foods ([FoodDB](https://www.ndph.ox.ac.uk/cpnp/research-projects/fooddb-and-myshop)). I am also involved in research using this dataset, including the creation of a browser extension to help consumers make healthier food choices by providing information at the point-of-purchase (BetterBasket).
 I was working in this role full-time, but reduced my hours whilst working on projects at the University of Edinburgh.
 
-* September 2018-January 2020: **Research Associate** in the [Data Science Institute](https://www.imperial.ac.uk/data-science/) at Imperial College London. The institute has a 64-screen tiled display with a 130 megapixel resolution driven by either 5 or 32 computers. I was part of the team that develops the software that controls this environment, including the [OVE framework](https://ove.readthedocs.io/en/stable/), and I also created visualizations in a range of domains. Both activities involved considerable amounts of programming using Python and JavaScript.
+* September 2018-January 2020: **Research Associate** in the [Data Science Institute](https://www.imperial.ac.uk/data-science/) at Imperial College London. The institute has a 64-screen tiled display with a 130 megapixel resolution driven by either 5 or 32 computers. I was part of the team that developed the software that controls this environment, including the [OVE framework](https://ove.readthedocs.io/en/stable/), and I created visualizations in a range of domains. Both activities involved considerable amounts of programming using Python and JavaScript.
 
 A common theme across all of these posts is the design of interactive visualizations, and their implementation using Python and JavaScript.
 
@@ -91,7 +91,7 @@ Published online 10 June 2020. DOI: [10.1515/jib-2018-0001](https://doi.org/10.1
 
 ## Professional service
 
-* I have been contrbuting to the [Synthetic Biology Open Language (SBOL)](https://sbolstandard.org/) and SBOL Visual standards for several years, as was elected as an Editor of the standards in 2021
+* I have been contributing to the [Synthetic Biology Open Language (SBOL)](https://sbolstandard.org/) and SBOL Visual standards for several years, and was elected as an Editor of the standards in 2021
 * I have reviewed submissions to the Eurovis conference
 * I maintain [visperception.com](http://visperception.com), a bibliography of experimental studies of the perception of visualizations.
 * I aggregated links to open-access preprints and materials for EuroVis papers in [2018](http://oa-eurovis.jamesscottbrown.com/2018) and [2019](http://oa-eurovis.jamesscottbrown.com/2019/); this effort was then made largely redundant by a policy change that made all EuroVis papers open-access from 2020 onwards
