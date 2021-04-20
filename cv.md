@@ -92,10 +92,10 @@ Published online 10 June 2020. DOI: [10.1515/jib-2018-0001](https://doi.org/10.1
 
 ## Professional service
 
-* I have been contributing to the [Synthetic Biology Open Language (SBOL)](https://sbolstandard.org/) and [SBOL Visual](https://sbolstandard.org/visual-about/) standards for several years, and was elected as an Editor of the standards in 2021
-* I have reviewed submissions to the Eurovis conference
+* I have been contributing to the [Synthetic Biology Open Language (SBOL)](https://sbolstandard.org/) and [SBOL Visual](https://sbolstandard.org/visual-about/) standards for several years, and was elected as an Editor of these standards in 2021.
+* I have reviewed submissions to the Eurovis conference.
 * I maintain [visperception.com](http://visperception.com), a bibliography of experimental studies of the perception of visualizations.
-* I aggregated links to open-access preprints and materials for EuroVis papers in [2018](http://oa-eurovis.jamesscottbrown.com/2018) and [2019](http://oa-eurovis.jamesscottbrown.com/2019/); this effort was then made largely redundant by a policy change that made all EuroVis papers open-access from 2020 onwards
+* I aggregated links to open-access preprints and materials for EuroVis papers in [2018](http://oa-eurovis.jamesscottbrown.com/2018) and [2019](http://oa-eurovis.jamesscottbrown.com/2019/); this effort was then made largely redundant by a policy change that made all EuroVis papers open-access from 2020 onwards.
 
 ## Student Projects/Placements
 
