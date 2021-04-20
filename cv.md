@@ -46,14 +46,19 @@ Delivering these projects involves designing new visualisations and user interfa
 
 ### Specifications published in journals
 
-1. Hasan Baig, Pedro Fontanarossa, Vishwesh Kulkarni, James McLaughlin, Prasant Vaidyanathan, Bryan Bartley, Swapnil Bhatia, Shyam Bhakta, Mike Bissell, KevinClancy, Robert Sidney Cox, Angel Goni Moreno, Thomas Gorochowski, Raik Grunberg, Augustin Luna, Curtis Madsen, Goksel Misirli, Tramy Nguyen, Nicolas Le Novere, Zachary Palchick, Matthew Pocock, Nicholas Roehner, Herbert Sauro, **James Scott-Brown**, John T. Sexton, Guy-Bart Stan, Jeffrey J.Tabor, Marta Vazquez Vilar, Christopher A. Voigt, Anil Wipat, David Zong, Zach Zundel, Jacob Beal, Chris Myers. **Synthetic Biology Open Language Visual (SBOL Visual) Version 2.2.** *Journal of Integrative Bioinformatics*. 
-Published online 10 June 2020. DOI: [10.1515/jib-2018-0001](https://doi.org/10.1515/jib-2018-0001)
+#### SBOL
 
 1. Hasan Baig, Pedro Fontanarrosa, Vishwesh Kulkarni, James McLaughlin, Prashant Vaidyanathan, Bryan Bartley, Jacob Beal, Matthew Crowther ,Thomas Gorochowski, Raik Grunberg, Goksel Misirli, **James Scott-Brown**, Ernst Oberortner, Anil Wipat, Chris Myers. **Synthetic Biology Open Language (SBOL) Version 3.0.0**. *Journal of Integrative Bioinformatics*. June 2020. DOI: [10.1515/jib-2020-0017](https://dx.doi.org/10.1515/jib-2020-0017).
 
+1. Curtis Madsen, Angel Goni Moreno, Umesh P, Zachary Palchick, Nicholas Roehner, Christian Atallah, Bryan Bartley, Kiri Choi, Robert Sidney Cox, Thomas Gorochowski, Raik Grunberg, Chris Macklin, James McLaughlin, Xianwei Meng, Tramy Nguyen, Matthew Pocock, Meher Samineni, **James Scott-Brown**, Ysis Tarter, Michael Zhang, Zhen Zhang, Zach Zundel, Jacob Beal, Michael Bissell, Kevin Clancy, John H. Gennari, Goksel Misirli, Chris Myers, Ernst Oberortner, Herbert Sauro, Anil Wipat. **Synthetic Biology Open Language (SBOL) Version 2.3.** *Journal of Integrative Bioinformatics*. June 2019. DOI: [10.1515/jib-2019-0025](https://doi.org/10.1515/jib-2019-0025)
+
+
+#### SBOL Visual
+1. Hasan Baig, Pedro Fontanarossa, Vishwesh Kulkarni, James McLaughlin, Prasant Vaidyanathan, Bryan Bartley, Swapnil Bhatia, Shyam Bhakta, Mike Bissell, KevinClancy, Robert Sidney Cox, Angel Goni Moreno, Thomas Gorochowski, Raik Grunberg, Augustin Luna, Curtis Madsen, Goksel Misirli, Tramy Nguyen, Nicolas Le Novere, Zachary Palchick, Matthew Pocock, Nicholas Roehner, Herbert Sauro, **James Scott-Brown**, John T. Sexton, Guy-Bart Stan, Jeffrey J.Tabor, Marta Vazquez Vilar, Christopher A. Voigt, Anil Wipat, David Zong, Zach Zundel, Jacob Beal, Chris Myers. **Synthetic Biology Open Language Visual (SBOL Visual) Version 2.2.** *Journal of Integrative Bioinformatics*. 
+Published online 10 June 2020. DOI: [10.1515/jib-2018-0001](https://doi.org/10.1515/jib-2018-0001)
+
 1. Curtis Madsen, Angel Goni Moreno, Zachary Palchick, Umesh P, Nicholas Roehner, Bryan Bartley, Swapnil Bhatia, Shyam Bhakta, Mike Bissell, Kevin Clancy, Robert Sidney Cox, Thomas Gorochowski, Raik Grunberg, Augustin Luna, James McLaughlin, Tramy Nguyen, Nicolas Le Novere, Matthew Pocock, Herbert Sauro, **James Scott-Brown**, John T. Sexton, Guy-Bart Stan, Jeffrey J. Tabor, Christopher A. Voigt, Zach Zundel, Chris Myers, Jacob Beal, Anil Wipat. **Synthetic Biology Open Language Visual (SBOL Visual) Version 2.1.** *Journal of Integrative Bioinformatics*. June 2019. DOI: [10.1515/jib-2018-0101](https://doi.org/10.1515/jib-2018-0101)
 
-1. Curtis Madsen, Angel Goni Moreno, Umesh P, Zachary Palchick, Nicholas Roehner, Christian Atallah, Bryan Bartley, Kiri Choi, Robert Sidney Cox, Thomas Gorochowski, Raik Grunberg, Chris Macklin, James McLaughlin, Xianwei Meng, Tramy Nguyen, Matthew Pocock, Meher Samineni, **James Scott-Brown**, Ysis Tarter, Michael Zhang, Zhen Zhang, Zach Zundel, Jacob Beal, Michael Bissell, Kevin Clancy, John H. Gennari, Goksel Misirli, Chris Myers, Ernst Oberortner, Herbert Sauro, Anil Wipat. **Synthetic Biology Open Language (SBOL) Version 2.3.** *Journal of Integrative Bioinformatics*. June 2019. DOI: [10.1515/jib-2019-0025](https://doi.org/10.1515/jib-2019-0025)
 
 
 ### Pre-prints
