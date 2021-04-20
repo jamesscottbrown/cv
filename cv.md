@@ -4,7 +4,7 @@ I am currently a Software Engineer in the Big Data Institute at the University o
 
 ## Employment
 
-* April 2020-: **Research Associate** in the [Visual+Inteactive Data](https://visualinteractivedata.github.io/bach.html) group at the University of Edinburgh (60% FTE).
+* April 2020-: **Research Associate** in the [Visual+Inteactive Data](https://visualinteractivedata.github.io/) group at the University of Edinburgh (60% FTE).
 My main responsibility in this role is to create a tool to help support the writing of local clinical guidelines by enabling clinicians to find similar existing guidelines that have been shared.
 This is intended to help the translation of research findings about COVID-19 into clinical practice.
 I am also involved in various smaller projects related to visualisation in support of [ISARIC 4C](http://isaric4c.net/) (the Coronavirus Clinical Characterisation Consortium).
